@@ -1,17 +1,24 @@
-====== Magyarország Alkotmánya ======
+=======================
+Magyarország Alkotmánya
+=======================
+
 (Munkaverzió. Életbe akkor lép, ha népszavazáselfogadta)
 
-===== Bevezető =====
+--------
+Bevezető
+--------
 
 Mi, Magyarország polgárai, abból a célból, hogy egy tisztességes, jól működő demokratikus országunk legyen, a következőekben egyeztünk meg.  
 
-==== Emberi jogok és kötelességek ====
+Emberi jogok és kötelességek
+============================
 
 Minden ember egyenlő, és azonos alapvető jogokkal bír.
 Minden embernek és közösségnek kötelessége minden ember jogait elismerni, figyelembe venni, és megvédeni.
 Az emberi jogokat csak más emberek jogainak védelmében, a legkisebb szükséges mértékben szabad korlátozni.
 
-=== Az Ember jogai ===
+Az Ember jogai
+--------------
 
 Minden embernek elidegeníthetetlen joga van
  - az élethez,
@@ -46,7 +53,8 @@ Az élethez szükséges élelmiszerből, ivóvizből és levegőből senki nem h
 
 A Természet kincseit senki nem tulajdonolhatja, és mindenkinek kötelessége védeni, felelősséggel használni őket abból a célból, hogy a következő nemzedékeknek jó állapotban adhassuk tovább.
 
-=== Emberi kötelességek ===
+Emberi kötelességek
+-------------------
 
 Mindenkinek kötelessége
  - minden más ember jogainak tiszteletben tartása,
@@ -56,12 +64,15 @@ Mindenkinek kötelessége
  - az aktív részvétel mindazokban a közösségekben, amelynek tagja,
  - a közösség által ráruházott feladatok, tisztségek jó gazdaként való ellátása, vagy ha erre nem képes, a feladat/tisztség visszaadása
 
-===== Az állam és a hatalom =====
+---------------------
+Az állam és a hatalom
+---------------------
 
 Az állam a polgárok által ráruházott jogokból eredő hatalmat gyakorolja, a jelen Alkotmány céljainak beteljesítésére, annak szabályai szerint.
 Ezért a polgároknak bármikor joguk van közös megegyezéssel a jogokat a hatalom egyes gyakorlóitól visszavenni, a szabályokat megváltoztatni.
 
-==== Hatalmi Ágak ====
+Hatalmi Ágak
+============
 
 A hatalomnak négy ága van.
 
@@ -72,11 +83,13 @@ A hatalomnak négy ága van.
 
 A hatalmi ágak gyakorlásának a gyakorolt hatalom nagyságával arányos szigorúsággal el kell különülnie.
 
-=== A törvényhozó hatalom ===
+A törvényhozó hatalom
+---------------------
 
 A törvényhozó hatalmat a polgárok közvetlenül, országgyűlési képviselőik segítségével gyakorolják.
 
-== A törvényhozás menete ==
+A törvényhozás menete
+`````````````````````
 
 A törvények vagy az Alkotmány módosítása, új törvények meghozatala javaslatok segítégével történik.
 A javaslatok tartalmazzák a joganyagból elveendő és ahhoz hozzáadandó szöveget, és egy indoklást.
@@ -98,7 +111,8 @@ A vitaidőszak letelte után az Országgyűlés Elnöke kiírja a szavazást, am
 - A "fentiek egyike sem" javaslatot.
 A szavazás Magyarország polgárainak körében, Condorcet módszerrel történik.
 
-= A képviselők és az országgyűlés=
+A képviselők és az országgyűlés
+'''''''''''''''''''''''''''''''
 
 Minden megye és Budapest országgyűlési választókerületet alkot.
 Minden választókerület 10 - 10 országgyűlési képviselőt választ 4 évente október 23.-án, Condorcet módszerrel.
@@ -137,7 +151,8 @@ Az Országgyűlés Elnökének kötelességei:
 - A Miniszterelnök, a Köztársasági Elnök, és a Főbíró javaslatainak benyújtása
 - Az Országgyűlés Elnöke a javadalmazásán kívül bevételhez nem juthat, előnyt el nem fogadhat
 
-=== A Végrehajtó hatalom ===
+A Végrehajtó hatalom
+--------------------
 
 A végrehajtó hatalmat a Miniszterelnök a törvényhozó hatalom által biztosított költségvetés segítségével gyakorolja.
 
@@ -161,7 +176,8 @@ A Miniszterelnök kötelességei:
  - A végrehajtó hatalom működési feltételeinek biztosítását, a korrupció megelőzését célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
  - A miniszterelnök a javadalmazásán kívül bevételhez nem juthat, előnyt el nem fogadhat
 
-=== Az igazságszolgáltatás ===
+Az igazságszolgáltatás
+----------------------
 
 Az igazságszolgáltatás hatalmát a bírók gyakorolják.
 Az igazságszolgáltatás vezetője a Főbíró.
@@ -186,7 +202,8 @@ A bíróknak minden esetben a törvények alapján, azok szellemiségét figyele
 Amennyiben egy bíró olyan döntést lenne kénytelen hozni a törvény betűje alapján, amely mérlegelése alapján etikailag igazságtalan, köteles az eljárást a szükséges ideiglenes határozatok meghozatala mellett felfüggeszteni, és jelezni a jog és etika közötti ellentmondást a bírói karnak. A jog és etika közötti ellentmondásokat a bírói kar nyilvánosan megtárgyalja. Amennyiben a bírói kar ellentmondást talál, a Főbíró javaslatot nyújt be az Országgyűlés elnökén keresztül a törvényhozó hatalomnak az ellentmondás rendezésére, amelynek része az ügyben hozandó ítélet.
 A törvényhozó hatalomnak joga van a bírói kar etikai ellentmondással kapcsolatos álláspontját felülvizsgálni, polgárokat a bírói jogkör gyakorlásától megfosztani a törvényhozásra vonatkozó szabályok szerint.
 
-=== Az ellenőrző hatalom ===
+Az ellenőrző hatalom
+--------------------
 
 Az ellenörző hatalom szervei:
 
