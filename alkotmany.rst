@@ -2,7 +2,7 @@
 Magyarország Alkotmánya
 =======================
 
-(Munkaverzió. Életbe akkor lép, ha népszavazáselfogadta)
+(Munkaverzió. Életbe akkor lép, ha népszavazás elfogadta)
 
 --------
 Bevezető
@@ -53,7 +53,7 @@ A rendelkezésre álló erőforrások által lehetővé tett szinten mindenkinek
 - az egészséghez és egészségügyi ellátáshoz,
 - a segítséghez, ha bajba jut.
 
-Az élethez szükséges élelmiszerből, ivóvizből és levegőből senki nem használhat el többet a szükségleteinél, azokat nem sajátíthatja ki, pusztíthatja el, vagy teheti használhatatlanná.
+Az élethez szükséges élelmiszerből, ivóvízből és levegőből senki nem használhat el többet a szükségleteinél, azokat nem sajátíthatja ki, pusztíthatja el, vagy teheti használhatatlanná.
 
 A Természet kincseit senki nem tulajdonolhatja, és mindenkinek kötelessége védeni, felelősséggel használni őket abból a célból, hogy a következő nemzedékeknek jó állapotban adhassuk tovább.
 
@@ -83,7 +83,7 @@ A hatalomnak négy ága van.
 
 - A törvényhozó hatalom az állam céljait határozza meg, és működésének, valamint a polgárok viselkedésének szabályait alkotja meg.
 - A végrehajtó hatalom a törvényhozó hatalom által kitűzött célok elérését, és a szabályok betartatását biztosítja.
-- Az igazságszolgáltatás a vitás kérdések rendezését, és a bűnösket sújtó büntetés kiszabását biztosítja.
+- Az igazságszolgáltatás a vitás kérdések rendezését, és a bűnösöket sújtó büntetés kiszabását biztosítja.
 - Az ellenőrző hatalom a másik három hatalmi ágban a hatalom képviseletének tisztességességét ellenőrzi.
 
 A hatalmi ágak gyakorlásának a gyakorolt hatalom nagyságával arányos szigorúsággal el kell különülnie.
@@ -96,7 +96,7 @@ A törvényhozó hatalmat a polgárok közvetlenül, országgyűlési képvisel�
 A törvényhozás menete
 `````````````````````
 
-A törvények vagy az Alkotmány módosítása, új törvények meghozatala javaslatok segítégével történik.
+A törvények vagy az Alkotmány módosítása, új törvények meghozatala javaslatok segítségével történik.
 A javaslatok tartalmazzák a joganyagból elveendő és ahhoz hozzáadandó szöveget, és egy indoklást.
 A nem alternatív javaslat tartalmazza a téma címét és a megoldandó probléma leírását.
 Képviseleti erővel bír:
@@ -222,13 +222,13 @@ A törvényhozó hatalomnak joga van a bírói kar etikai ellentmondással kapcs
 Az ellenőrző hatalom
 --------------------
 
-Az ellenörző hatalom szervei:
+Az ellenőrző hatalom szervei:
 
 - Az Alkotmánybíróság feladata a törvényhozó hatalom ellenőrzése; a meghozott jogszabályok magasabb jogszabályoknak való megfelelőségének ellenőrzése, a nemzetközi szerződésekben vállalt emberi és állampolgári jogokat is beleértve.
 - A Kormányzatfelügyelet feladata a végrehajtó hatalom ellenőrzése; az erőforrások cél szerinti, hatékony, korrupciót kizáró módon történő felhasználásának ellenőrzése
 - A Bíróságfelügyelet feladata az igazságszolgáltatás ellenőrzése; a bírósági döntések jogszabályokkal, az etikával és egymással való konzisztenciájának ellenőrzése, az összeférhetetlenségek kizárása, az átláthatóság biztosítása
 
-Az ellenörző hatalom vezetője a Köztársaság Elnöke
+Az ellenőrző hatalom vezetője a Köztársaság Elnöke
 
 A Köztársaság Elnökét a polgárok közvetlenül, Condorcet módszerrel választják négy évente.
 A választhatóság feltételei:
@@ -243,11 +243,11 @@ A visszahívás új Köztársasági Elnök megválasztásával történik.
 
 A Köztársasági Elnök jogai:
 
-- A törvényhozó hatalom által hozott törvények kihírdetése, maximum egy alkalommal megfontolásra való visszaküldése, vagy alkotmánybírósági kontrollra való küldése.
+- A törvényhozó hatalom által hozott törvények kihirdetése, maximum egy alkalommal megfontolásra való visszaküldése, vagy alkotmánybírósági kontrollra való küldése.
 - Az Alkotmánybíróság által megsemmisített jogszabályok megsemmisítésének kihirdetése
-- Az ellenörző hatalom szervei által készített javaslatok benyújtása a törvényhozó hatalomnak az Országgyűlés Elnökén keresztül
+- Az ellenőrző hatalom szervei által készített javaslatok benyújtása a törvényhozó hatalomnak az Országgyűlés Elnökén keresztül
 
 A Köztársasági Elnök kötelességei
 
-- Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenörző hatalom munkájáról, az elvégzett ellenőrzésekről
-- A szükséges javaslatok elkészíttetése az ellenőrzőhatalom szervei által
+- Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenőrző hatalom munkájáról, az elvégzett ellenőrzésekről
+- A szükséges javaslatok elkészíttetése az ellenőrző hatalom szervei által
