@@ -21,33 +21,37 @@ Az Ember jogai
 --------------
 
 Minden embernek elidegeníthetetlen joga van
- - az élethez,
- - a méltósághoz,
- - a véleményéhez és világnézetéhez,
- - a jogai védelméhez.
+
+- az élethez,
+- a méltósághoz,
+- a véleményéhez és világnézetéhez,
+- a jogai védelméhez.
 
 Mindenkinek joga van
- - a szabadsághoz,
- - a személyes biztonsághoz,
- - a magánélethez, 
- - a családhoz,
- - a tudáshoz és az azt megalapozó információhoz,
- - a véleménye kimondásához,
- - a magántulajdonhoz,
- - az egyenlő bánásmódhoz,
- - megválasztani, hogy mely közösségekhez kíván, vagy nem kíván tartozni,
- - a pihenéshez és a szabadidőhöz,
- - a Természethez.
+
+- a szabadsághoz,
+- a személyes biztonsághoz,
+- a magánélethez, 
+- a családhoz,
+- a tudáshoz és az azt megalapozó információhoz,
+- a véleménye kimondásához,
+- a magántulajdonhoz,
+- az egyenlő bánásmódhoz,
+- megválasztani, hogy mely közösségekhez kíván, vagy nem kíván tartozni,
+- a pihenéshez és a szabadidőhöz,
+- a Természethez.
 
 Senkit sem szabad
- - kínozni,
- - rabszolgaságban vagy szolgaságban tartani,
- - kegyetlen, embertelen vagy lealacsonyító bánásmódnak még büntetésből sem alávetni.
+
+- kínozni,
+- rabszolgaságban vagy szolgaságban tartani,
+- kegyetlen, embertelen vagy lealacsonyító bánásmódnak még büntetésből sem alávetni.
 
 A rendelkezésre álló erőforrások által lehetővé tett szinten mindenkinek joga van
- - az élethez szükséges élelmiszerhez, ivóvízhez, tiszta levegőhöz és lakáshoz,
- - az egészséghez és egészségügyi ellátáshoz,
- - a segítséghez, ha bajba jut.
+
+- az élethez szükséges élelmiszerhez, ivóvízhez, tiszta levegőhöz és lakáshoz,
+- az egészséghez és egészségügyi ellátáshoz,
+- a segítséghez, ha bajba jut.
 
 Az élethez szükséges élelmiszerből, ivóvizből és levegőből senki nem használhat el többet a szükségleteinél, azokat nem sajátíthatja ki, pusztíthatja el, vagy teheti használhatatlanná.
 
@@ -57,12 +61,13 @@ Emberi kötelességek
 -------------------
 
 Mindenkinek kötelessége
- - minden más ember jogainak tiszteletben tartása,
- - az elesettek, önhibájukon kívül bajba jutottak segítése,
- - saját tudásának és képességeinek folyamatos fejlesztése,
- - a közösen használt erőforrások, különösen a Természet tiszteletben tartása és védelme,
- - az aktív részvétel mindazokban a közösségekben, amelynek tagja,
- - a közösség által ráruházott feladatok, tisztségek jó gazdaként való ellátása, vagy ha erre nem képes, a feladat/tisztség visszaadása
+
+- minden más ember jogainak tiszteletben tartása,
+- az elesettek, önhibájukon kívül bajba jutottak segítése,
+- saját tudásának és képességeinek folyamatos fejlesztése,
+- a közösen használt erőforrások, különösen a Természet tiszteletben tartása és védelme,
+- az aktív részvétel mindazokban a közösségekben, amelynek tagja,
+- a közösség által ráruházott feladatok, tisztségek jó gazdaként való ellátása, vagy ha erre nem képes, a feladat/tisztség visszaadása
 
 ---------------------
 Az állam és a hatalom
@@ -76,10 +81,10 @@ Hatalmi Ágak
 
 A hatalomnak négy ága van.
 
- - A törvényhozó hatalom az állam céljait határozza meg, és működésének, valamint a polgárok viselkedésének szabályait alkotja meg.
- - A végrehajtó hatalom a törvényhozó hatalom által kitűzött célok elérését, és a szabályok betartatását biztosítja.
- - Az igazságszolgáltatás a vitás kérdések rendezését, és a bűnösket sújtó büntetés kiszabását biztosítja.
- - Az ellenőrző hatalom a másik három hatalmi ágban a hatalom képviseletének tisztességességét ellenőrzi.
+- A törvényhozó hatalom az állam céljait határozza meg, és működésének, valamint a polgárok viselkedésének szabályait alkotja meg.
+- A végrehajtó hatalom a törvényhozó hatalom által kitűzött célok elérését, és a szabályok betartatását biztosítja.
+- Az igazságszolgáltatás a vitás kérdések rendezését, és a bűnösket sújtó büntetés kiszabását biztosítja.
+- Az ellenőrző hatalom a másik három hatalmi ágban a hatalom képviseletének tisztességességét ellenőrzi.
 
 A hatalmi ágak gyakorlásának a gyakorolt hatalom nagyságával arányos szigorúsággal el kell különülnie.
 
@@ -106,9 +111,11 @@ A képviseleti erők a vitaidőszakban javaslatokat nyújthatnak be és benyújt
 A javaslatok gazdái a beérkező ellenérvekhez cáfolatokat adhatnak.
 A vitaidőszak két hét, amelyet az országgyűlés elnöke a szükséges információk beszerzése érdekében egy személyben, vagy az országgyűlés bármilyen okkal egyszerű többséggel maximum három alkalommal további két héttel meghosszabbíthat, vagy egy hétre csökkenthet.
 A vitaidőszak letelte után az Országgyűlés Elnöke kiírja a szavazást, amely tartalmazza:
+
 - A téma címét és a megoldandó probléma leírását
 - Az összes javaslatot, az azokhoz tartalmazó indoklásokkal, ellenérvekkel, és cáfolatokkal.
 - A "fentiek egyike sem" javaslatot.
+
 A szavazás Magyarország polgárainak körében, Condorcet módszerrel történik.
 
 A képviselők és az országgyűlés
@@ -117,15 +124,17 @@ A képviselők és az országgyűlés
 Minden megye és Budapest országgyűlési választókerületet alkot.
 Minden választókerület 10 - 10 országgyűlési képviselőt választ 4 évente október 23.-án, Condorcet módszerrel.
 A választhatóság feltételei:
- - magyar állampolgárság
- - büntetlen előélet
- - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
- - a jelöltet legalább a választókerület minden 500. polgára javasolja.
+
+- magyar állampolgárság
+- büntetlen előélet
+- a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
+- a jelöltet legalább a választókerület minden 500. polgára javasolja.
 
 Az országgyűlési képviselők a választókerület minden 100. polgárának indítványára visszahívhatóak.
 A visszahívás új képviselő megválasztásával történik.
 
 Az országgyűlés képviselők jogai:
+
 - módosító indítvány benyújtása bármely törvényhez vagy az Alkotmányhoz
 - új törvényjavaslat benyújtása
 - az ország hivatalos médiáin keresztül üzenetek eljuttatása
@@ -134,6 +143,7 @@ Az országgyűlés képviselők jogai:
 - javadalmazásként a mindenkori előző évi országos átlagfizetés hatszorosa
 
 Az országgyűlési képviselők kötelességei:
+
 - a rájuk bízott javaslatok jó gazdaként történő kezelése, az azokat alátámasztó vagy gyengítő információk pártatlan mérlegelése
 - a polgárokkal való kommunikáció, a polgárok észrevételeinek javaslatokba építése
 - a képviselő a javadalmazásán kívül bevételhez nem juthat, előnyt el nem fogadhat
@@ -141,10 +151,12 @@ Az országgyűlési képviselők kötelességei:
 Az Országgyűlés Elnökét az országgyűlési képviselők az arra jelentkező országgyűlési képviselők közül Condorcet módszerrel választják. 
 
 Az Országgyűlés Elnökének jogai:
+
 - az országgyűlési képviselőket megillető jogok
 - javadalmazásként az országgyűlési képviselői javadalmazás még egyszerese
 
 Az Országgyűlés Elnökének kötelességei:
+
 - Az Országgyűlés üléseinek vezetése
 - A törvényhozás menetrendjének betartatása
 - A szavazások kiírása
@@ -158,23 +170,26 @@ A végrehajtó hatalmat a Miniszterelnök a törvényhozó hatalom által biztos
 
 A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választják négy évente, mandátuma a következő év Január 1.-től az új költségvetéssel együtt érvényes.
 A választhatóság feltételei:
- - magyar állampolgárság
- - büntetlen előélet
- - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
- - a jelöltet legalább az ország minden 500. polgára javasolja.
+
+- magyar állampolgárság
+- büntetlen előélet
+- a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
+- a jelöltet legalább az ország minden 500. polgára javasolja.
 
 A miniszterelnök az ország minden 100. polgárának indítványára visszahívható.
 A visszahívás új miniszterelnök megválasztásával történik.
 
 A Miniszterelnök jogai:
- - A törvényben meghatározott feltételeknek megfelelő miniszterek kijelölése a minisztériumok élére, egyszerre maximum három tárca nélküli miniszter alkalmazása
- - A végrehajtó hatalom működési feltételeinek biztosítását célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
- - Javadalmazásként az országgyűlési képviselői javadalmazás négyszerese
+
+- A törvényben meghatározott feltételeknek megfelelő miniszterek kijelölése a minisztériumok élére, egyszerre maximum három tárca nélküli miniszter alkalmazása
+- A végrehajtó hatalom működési feltételeinek biztosítását célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
+- Javadalmazásként az országgyűlési képviselői javadalmazás négyszerese
 
 A Miniszterelnök kötelességei:
- - A végrehajtó hatalom törvényeknek megfelelő működtetése
- - A végrehajtó hatalom működési feltételeinek biztosítását, a korrupció megelőzését célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
- - A miniszterelnök a javadalmazásán kívül bevételhez nem juthat, előnyt el nem fogadhat
+
+- A végrehajtó hatalom törvényeknek megfelelő működtetése
+- A végrehajtó hatalom működési feltételeinek biztosítását, a korrupció megelőzését célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
+- A miniszterelnök a javadalmazásán kívül bevételhez nem juthat, előnyt el nem fogadhat
 
 Az igazságszolgáltatás
 ----------------------
@@ -182,11 +197,12 @@ Az igazságszolgáltatás
 Az igazságszolgáltatás hatalmát a bírók gyakorolják.
 Az igazságszolgáltatás vezetője a Főbíró.
 Bíró az lehet, aki
- - a megfelelő képesítéseket megszerezte
- - magyar állampolgár
- - büntetlen előéletű
- - nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
- - a törvényhozó hatalom nem fosztotta meg a bírói jogkör gyakorlásától
+
+- a megfelelő képesítéseket megszerezte
+- magyar állampolgár
+- büntetlen előéletű
+- nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
+- a törvényhozó hatalom nem fosztotta meg a bírói jogkör gyakorlásától
 
 A Főbírót a polgárok hat évente, a bírók közül, a bírók által javasolt négy jelöltből közvetlenül, Condorcet módszerrel választják.
 
@@ -194,7 +210,8 @@ A Főbíró az ország minden 100. polgárának indítványára visszahívható.
 A visszahívás új Főbíró megválasztásával történik.
 
 A Főbíró jogai:
- - A bíróságok és a bírói kar munkáját, működési feltételeinek biztosítását célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
+
+- A bíróságok és a bírói kar munkáját, működési feltételeinek biztosítását célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
 
 A bírók munkájának elfogulatlanságát mérni kell.
 A bíróságok minden döntése, annak indoklásával együtt közérdekű adat.
@@ -215,20 +232,22 @@ Az ellenörző hatalom vezetője a Köztársaság Elnöke
 
 A Köztársaság Elnökét a polgárok közvetlenül, Condorcet módszerrel választják négy évente.
 A választhatóság feltételei:
- - magyar állampolgárság
- - büntetlen előélet
- - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
- - a jelöltet legalább az ország minden 500. polgára javasolja.
+
+- magyar állampolgárság
+- büntetlen előélet
+- a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes élete során
+- a jelöltet legalább az ország minden 500. polgára javasolja.
 
 A Köztársasági Elnök az ország minden 100. polgárának indítványára visszahívható.
 A visszahívás új Köztársasági Elnök megválasztásával történik.
 
 A Köztársasági Elnök jogai:
- - A törvényhozó hatalom által hozott törvények kihírdetése, maximum egy alkalommal megfontolásra való visszaküldése, vagy alkotmánybírósági kontrollra való küldése.
- - Az Alkotmánybíróság által megsemmisített jogszabályok megsemmisítésének kihirdetése
- - Az ellenörző hatalom szervei által készített javaslatok benyújtása a törvényhozó hatalomnak az Országgyűlés Elnökén keresztül
+
+- A törvényhozó hatalom által hozott törvények kihírdetése, maximum egy alkalommal megfontolásra való visszaküldése, vagy alkotmánybírósági kontrollra való küldése.
+- Az Alkotmánybíróság által megsemmisített jogszabályok megsemmisítésének kihirdetése
+- Az ellenörző hatalom szervei által készített javaslatok benyújtása a törvényhozó hatalomnak az Országgyűlés Elnökén keresztül
 
 A Köztársasági Elnök kötelességei
- - Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenörző hatalom munkájáról, az elvégzett ellenőrzésekről
- - A szükséges javaslatok elkészíttetése az ellenőrzőhatalom szervei által
 
+- Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenörző hatalom munkájáról, az elvégzett ellenőrzésekről
+- A szükséges javaslatok elkészíttetése az ellenőrzőhatalom szervei által
