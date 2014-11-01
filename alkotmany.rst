@@ -171,7 +171,7 @@ Az országgyűlés képviselők jogai:
   információk határidőre történő beszerzése
 - kérdéseket tehet fel a minisztereknek és a Miniszterelnöknek, a Köztársaság
   Elnökének és a Főbírónak, amelyekre azok személyesen az országgyűlés előtt
-kötelesek válaszolni
+  kötelesek válaszolni
 - javadalmazásként a mindenkori előző évi országos átlagfizetés hatszorosa
 
 Az országgyűlési képviselők kötelességei:
@@ -223,7 +223,7 @@ A Miniszterelnök jogai:
 
 - A törvényben meghatározott feltételeknek megfelelő miniszterek kijelölése a
   minisztériumok élére, egyszerre maximum három tárca nélküli miniszter
-alkalmazása
+  alkalmazása
 - A végrehajtó hatalom működési feltételeinek biztosítását célzó javaslatok
   benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
 - Javadalmazásként az országgyűlési képviselői javadalmazás négyszerese
@@ -233,7 +233,7 @@ A Miniszterelnök kötelességei:
 - A végrehajtó hatalom törvényeknek megfelelő működtetése
 - A végrehajtó hatalom működési feltételeinek biztosítását, a korrupció
   megelőzését célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a
-törvényhozó hatalomnak
+  törvényhozó hatalomnak
 - A miniszterelnök a javadalmazásán kívül bevételhez nem juthat, előnyt el nem
   fogadhat
 
@@ -310,7 +310,7 @@ A Köztársasági Elnök jogai:
 
 - A törvényhozó hatalom által hozott törvények kihirdetése, maximum egy
   alkalommal megfontolásra való visszaküldése, vagy alkotmánybírósági kontrollra
-való küldése.
+  való küldése.
 - Az Alkotmánybíróság által megsemmisített jogszabályok megsemmisítésének
   kihirdetése
 - Az ellenőrző hatalom szervei által készített javaslatok benyújtása a
