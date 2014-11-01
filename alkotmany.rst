@@ -250,6 +250,7 @@ Bíró az lehet, aki
 - nem vett részt semmilyen hazai vagy külföldi titkosszolgálat munkájában teljes
   élete során
 - a törvényhozó hatalom nem fosztotta meg a bírói jogkör gyakorlásától
+- nem volt egyetlen pártnak sem tagja élete során
 
 A Főbírót a polgárok hat évente, a bírók közül, a bírók által javasolt négy
 jelöltből közvetlenül, Condorcet módszerrel választják.
@@ -302,6 +303,8 @@ négy évente. A választhatóság feltételei:
 - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat
   munkájában teljes élete során
 - a jelöltet legalább az ország minden 500. polgára javasolja.
+- a jelölt nem volt egyetlen pártnak sem tagja élete során
+- a jelölt rendelkezik a poszt betöltéséhez szükséges tudással és végzettséggel
 
 A Köztársasági Elnök az ország minden 100. polgárának indítványára
 visszahívható. A visszahívás új Köztársasági Elnök megválasztásával történik.
