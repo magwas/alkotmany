@@ -82,10 +82,23 @@ Mindenkinek kötelessége
 Köztulajdon és védelme
 -----------------------
 Köztulajdonnak minősülnek az alábbiak:
-- Magyarország természeti kincsei (például, de nem kizárólag: víz, levegő, vadállomány, termőföld, természetvédelmi területek, biogazdálkodások)
-- Magyarország vagyoni természetű kincsei (adóbevétel, valutatartalék, aranytartalék, egyéb állami tulajdonú anyagi javak, mint például, de nem kizárólag: középületek, államkötvények, beruházások, pályázatok, országon kívüli eredetű de közcélra juttatott források)
+
+- Magyarország természeti kincsei (például, de nem kizárólag: víz, levegő,
+  vadállomány, termőföld, természetvédelmi területek, biogazdálkodások)
+- Magyarország vagyoni természetű kincsei (adóbevétel, valutatartalék, aranytartalék,
+  egyéb állami tulajdonú anyagi javak, mint például, de nem kizárólag: középületek,
+  államkötvények, beruházások, pályázatok, országon kívüli eredetű de közcélra juttatott
+  források)
 - Magyarország szellemi természetű kincsei (szabadalmak, találmányok, védjegyek)
-A köztulajdon gondozására kijelölt szervek, cégek nemzetgazdasági, és nemzetvédelmi szempontból kiemelt fontosságú munkát végeznek, ellenőrzésük és működésük biztosítása is kiemelt feladat. Ehhez ellenőrző szervet kell működtetni, melynek kiemelt kötelességei közé tartozik a korrupció és egyéb visszaélések üldözése, az Ügyészséggel közösen, nyomozati jogkörrel. A köztulajdonnal szembeni vétségek nem évülnek el, üldözésüknek nem szabhat határt sem államhatár, sem cégtulajdonlással kapcsolatos visszaélés, ezért a köztulajdont ellenőrző szerv közvetlen kapcsolatban kell álljon a Legfőbb Ügyésszel és hivatalával, a Főbíróval és hivatalával, és minden olyan nemzetközi szervvel, amelyik a munkáját segíteni tudja.
+
+A köztulajdon gondozására kijelölt szervek, cégek nemzetgazdasági, és nemzetvédelmi
+szempontból kiemelt fontosságú munkát végeznek, ellenőrzésük és működésük biztosítása is
+kiemelt feladat. Ehhez ellenőrző szervet kell működtetni, melynek kiemelt kötelességei közé
+tartozik a korrupció és egyéb visszaélések üldözése, az Ügyészséggel közösen, nyomozati
+jogkörrel. A köztulajdonnal szembeni vétségek nem évülnek el, üldözésüknek nem szabhat határt
+sem államhatár, sem cégtulajdonlással kapcsolatos visszaélés, ezért a köztulajdont ellenőrző szerv
+közvetlen kapcsolatban kell álljon a Legfőbb Ügyésszel és hivatalával, a Főbíróval és hivatalával,
+és minden olyan nemzetközi szervvel, amelyik a munkáját segíteni tudja.
 
 ---------------------
 Az állam és a hatalom
