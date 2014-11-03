@@ -1,3 +1,29 @@
+Mi, Magyarország polgárai,
+
+megelégelve, hogy
+
+ - mások döntenek a mi életünket meghatározó kérdésekben
+ - az ország irányítását egymást váltó bűnszövetkezetek vették át
+ - az ország javáért tenni akaró emberek között nincs összefogás
+
+felismerve, hogy ennek okozói a jelenlegi Alaptörvényből következő folyamatok,
+
+közös akarattal, együttesen egy Új Alkotmányt készítünk, amely biztosítja, hogy
+
+ - a kezünkbe vegyük közös dolgaink irányítását
+ - mindenkit megillessenek az embereknek járó jogok
+ - az együttműködés határozza meg országunk irányítását.
+ 
+Az Új Alkotmányt közösen, minden hozzászóló véleményét figyelembe véve, a
+Debian Alkotmány folyamatait használva alkotjuk meg.
+Ha majd úgy döntünk, hogy az új Alkotmány már elegendően jó, és azt elegendően támogatjuk,
+meg fogjuk bízni - lehetőleg békés módon - az Országgyűlést, hogy azt léptesse érvénybe.
+ 
+Ezért megkérünk Téged is, hogy javaslataiddal, véleményeddel, és a kezdeményezés
+hírének terjesztésével vegyél részt ebben a nagy munkában.
+
+Az Új Alkotmány jelenlegi formája a következő:
+
 =======================
 Magyarország Alkotmánya
 =======================
