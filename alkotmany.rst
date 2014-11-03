@@ -3,26 +3,26 @@ Mi, Magyarország polgárai,
 megelégelve, hogy
 
 - a képviseletünkben eljárók nem a mi akaratunk, hanem pártos
-érdekek mentén döntenek az életünket meghatározó kérdésekben
+  érdekek mentén döntenek az életünket meghatározó kérdésekben
 - az ország irányításában egymást váltó politika elit csak saját
-hasznára gazdálkodik a rájuk bízott erőforrásokkal
+  hasznára gazdálkodik a rájuk bízott erőforrásokkal
 - az ország javáért tenni akaró emberek között nincs összefogás
 
 felismerve, hogy
 
 - a jelenlegi kormányzó elit a jelenlegi Alaptörvényt
-is ennek alárendelve, népi felhatalmazás nélkül léptette érvénybe,
+  is ennek alárendelve, népi felhatalmazás nélkül léptette érvénybe,
  valamint
 - már a rendszerváltó ideiglenes Alkotmányban lefektetett választási
-szabályok is önmagukat erősítő, negatív folyamatokat indítottak el,
+  szabályok is önmagukat erősítő, negatív folyamatokat indítottak el,
 
 közös akarattal, együttesen egy Új Alkotmányt készítünk, amely biztosítja, hogy
 
 - a kezünkbe vegyük közös dolgaink irányítását
 - többé egy szűk csoport se alakíthassa a hatalmi érdekei szerint
-a közös értékeinket keretbe foglaló Alkotmányt
+  a közös értékeinket keretbe foglaló Alkotmányt
 - a történelmünk során kiharcolt és a világ változásai során kialakult
-emberi jogok mindenkit, megkülönböztetés nélkül megillethessenek
+  emberi jogok mindenkit, megkülönböztetés nélkül megillethessenek
 - az együttműködés a valós népakarat határozza meg országunk irányítását.
  
 Az Új Alkotmányt közösen, minden hozzászóló véleményét figyelembe véve, a
