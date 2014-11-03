@@ -2,17 +2,17 @@ Mi, Magyarország polgárai,
 
 megelégelve, hogy
 
- - mások döntenek a mi életünket meghatározó kérdésekben
- - az ország irányítását egymást váltó bűnszövetkezetek vették át
- - az ország javáért tenni akaró emberek között nincs összefogás
+- mások döntenek a mi életünket meghatározó kérdésekben
+- az ország irányítását egymást váltó bűnszövetkezetek vették át
+- az ország javáért tenni akaró emberek között nincs összefogás
 
 felismerve, hogy ennek okozói a jelenlegi Alaptörvényből következő folyamatok,
 
 közös akarattal, együttesen egy Új Alkotmányt készítünk, amely biztosítja, hogy
 
- - a kezünkbe vegyük közös dolgaink irányítását
- - mindenkit megillessenek az embereknek járó jogok
- - az együttműködés határozza meg országunk irányítását.
+- a kezünkbe vegyük közös dolgaink irányítását
+- mindenkit megillessenek az embereknek járó jogok
+- az együttműködés határozza meg országunk irányítását.
  
 Az Új Alkotmányt közösen, minden hozzászóló véleményét figyelembe véve, a
 Debian Alkotmány folyamatait használva alkotjuk meg.
