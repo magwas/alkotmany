@@ -23,7 +23,7 @@ közös akarattal, együttesen egy Új Alkotmányt készítünk, amely biztosít
   a közös értékeinket keretbe foglaló Alkotmányt
 - a történelmünk során kiharcolt és a világ változásai során kialakult
   emberi jogok mindenkit, megkülönböztetés nélkül megillethessenek
-- az együttműködés a valós népakarat határozza meg országunk irányítását.
+- az együttműködés, a valós népakarat határozza meg országunk irányítását.
  
 Az Új Alkotmányt közösen, minden hozzászóló véleményét figyelembe véve, a
 Debian Alkotmány folyamatait használva alkotjuk meg.
