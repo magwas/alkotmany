@@ -12,7 +12,7 @@ felismerve, hogy
 
 - a jelenlegi kormányzó elit a jelenlegi Alaptörvényt
   is ennek alárendelve, népi felhatalmazás nélkül léptette érvénybe,
- valamint
+  valamint
 - már a rendszerváltó ideiglenes Alkotmányban lefektetett választási
   szabályok is önmagukat erősítő, negatív folyamatokat indítottak el,
 
