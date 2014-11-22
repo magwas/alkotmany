@@ -76,9 +76,9 @@ Mindenkinek joga van
 - a véleménye kimondásához,
 - a magántulajdonhoz,
 - az egyenlő bánásmódhoz,
-- megválasztani, hogy mely közösségekhez kíván, vagy nem kíván tartozni,
+- megválasztani, hogy mely közösségekhez kíván tartozni,
 - a pihenéshez és a szabadidőhöz,
-- a Természethez.
+- a természethez.
 
 Senkit sem szabad
 
@@ -90,7 +90,7 @@ Senkit sem szabad
 A rendelkezésre álló erőforrások által lehetővé tett szinten mindenkinek joga
 van
 
-- az élethez szükséges élelmiszerhez, ivóvízhez, tiszta levegőhöz és lakáshoz,
+- az élethez szükséges élelmiszerhez, ivóvízhez, tiszta levegőhöz és lakhatáshoz,
 - az egészséghez és egészségügyi ellátáshoz,
 - a segítséghez, ha bajba jut.
 
@@ -98,7 +98,7 @@ Az élethez szükséges élelmiszerből, ivóvízből és levegőből senki nem 
 el többet a szükségleteinél, azokat nem sajátíthatja ki, pusztíthatja el, vagy
 teheti használhatatlanná.
 
-A Természet kincseit senki nem tulajdonolhatja, és mindenkinek kötelessége
+A természet kincseit senki nem tulajdonolhatja, és mindenkinek kötelessége
 védeni, felelősséggel használni őket abból a célból, hogy a következő
 nemzedékeknek jó állapotban adhassuk tovább.
 
@@ -110,7 +110,7 @@ Mindenkinek kötelessége
 - minden más ember jogainak tiszteletben tartása,
 - az elesettek, önhibájukon kívül bajba jutottak segítése,
 - saját tudásának és képességeinek folyamatos fejlesztése,
-- a közösen használt erőforrások, különösen a Természet tiszteletben tartása és
+- a közösen használt erőforrások, különösen a természet tiszteletben tartása és
   védelme,
 - az aktív részvétel mindazokban a közösségekben, amelynek tagja,
 - a közösség által ráruházott feladatok, tisztségek jó gazdaként való ellátása,
