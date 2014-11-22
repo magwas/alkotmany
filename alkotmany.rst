@@ -121,7 +121,7 @@ Az állam és a hatalom
 ---------------------
 
 Az állam a polgárok által ráruházott jogokból eredő hatalmat gyakorolja, a jelen
-Alkotmány céljainak beteljesítésére, annak szabályai szerint.  Ezért a
+Alkotmány céljainak megvalósítására, annak szabályai szerint.  Ezért a
 polgároknak bármikor joguk van közös megegyezéssel a jogokat a hatalom egyes
 gyakorlóitól visszavenni, a szabályokat megváltoztatni.
 
@@ -131,13 +131,12 @@ Hatalmi Ágak
 A hatalomnak négy ága van.
 
 - A törvényhozó hatalom az állam céljait határozza meg, és működésének, valamint
-  a polgárok viselkedésének szabályait alkotja meg.
+  a polgári együttélés szabályait alkotja meg.
 - A végrehajtó hatalom a törvényhozó hatalom által kitűzött célok elérését, és a
   szabályok betartatását biztosítja.
-- Az igazságszolgáltatás a vitás kérdések rendezését, és a bűnösöket sújtó
-  büntetés kiszabását biztosítja.
-- Az ellenőrző hatalom a másik három hatalmi ágban a hatalom képviseletének
-  tisztességességét ellenőrzi.
+- Az igazságszolgáltatás a vitás kérdések rendezését, és a peres és jogi
+  ügyekben való ítélkezést.
+- A másik három hatalmi ág munkáját, a társadalommal szembeni egyensúlyát ellenőrzi.
 
 A hatalmi ágak gyakorlásának a gyakorolt hatalom nagyságával arányos
 szigorúsággal el kell különülnie.
@@ -240,8 +239,8 @@ Az Országgyűlés Elnökének kötelességei:
 A Végrehajtó hatalom
 --------------------
 
-A végrehajtó hatalmat a Miniszterelnök a törvényhozó hatalom által biztosított
-költségvetés segítségével gyakorolja.
+A végrehajtó hatalmat a Miniszterelnök a törvényhozó hatalom által 
+alkotott törvények és költségvetés segítségével gyakorolja.
 
 A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választják négy
 évente, mandátuma a következő év Január 1.-től az új költségvetéssel együtt
@@ -326,7 +325,7 @@ Az ellenőrző hatalom szervei:
   erőforrások cél szerinti, hatékony, korrupciót kizáró módon történő
   felhasználásának ellenőrzése
 - A Bíróságfelügyelet feladata az igazságszolgáltatás ellenőrzése; a bírósági
-  döntések jogszabályokkal, az etikával és egymással való konzisztenciájának
+  döntések jogszabályokkal, az etikával és egymással való összhangjának
   ellenőrzése, az összeférhetetlenségek kizárása, az átláthatóság biztosítása
 
 Az ellenőrző hatalom vezetője a Köztársaság Elnöke
