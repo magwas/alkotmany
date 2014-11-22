@@ -1,3 +1,40 @@
+Mi, Magyarország polgárai,
+
+megelégelve, hogy
+
+- a képviseletünkben eljárók nem a mi akaratunk, hanem pártos
+  érdekek mentén döntenek az életünket meghatározó kérdésekben
+- az ország irányításában egymást váltó politika elit csak saját
+  hasznára gazdálkodik a rájuk bízott erőforrásokkal
+- az ország javáért tenni akaró emberek között nincs összefogás
+
+felismerve, hogy
+
+- a jelenlegi kormányzó elit a jelenlegi Alaptörvényt
+  is ennek alárendelve, népi felhatalmazás nélkül léptette érvénybe,
+  valamint
+- már a rendszerváltó ideiglenes Alkotmányban lefektetett választási
+  szabályok is önmagukat erősítő, negatív folyamatokat indítottak el,
+
+közös akarattal, együttesen egy Új Alkotmányt készítünk, amely biztosítja, hogy
+
+- a kezünkbe vegyük közös dolgaink irányítását
+- többé egy szűk csoport se alakíthassa a hatalmi érdekei szerint
+  a közös értékeinket keretbe foglaló Alkotmányt
+- a történelmünk során kiharcolt és a világ változásai során kialakult
+  emberi jogok mindenkit, megkülönböztetés nélkül megillethessenek
+- az együttműködés, a valós népakarat határozza meg országunk irányítását.
+ 
+Az Új Alkotmányt közösen, minden hozzászóló véleményét figyelembe véve, a
+Debian Alkotmány folyamatait használva alkotjuk meg.
+Ha majd úgy döntünk, hogy az új Alkotmány már elegendően jó, és azt elegendően támogatjuk,
+meg fogjuk bízni - lehetőleg békés módon - az Országgyűlést, hogy azt léptesse érvénybe.
+ 
+Ezért megkérünk Téged is, hogy javaslataiddal, véleményeddel, és a kezdeményezés
+hírének terjesztésével vegyél részt ebben a nagy munkában.
+
+Az Új Alkotmány jelenlegi formája a következő:
+
 =======================
 Magyarország Alkotmánya
 =======================
