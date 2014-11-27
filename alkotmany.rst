@@ -145,11 +145,28 @@ a szavazást, amely tartalmazza:
 
 A szavazás Magyarország polgárainak körében, Condorcet módszerrel történik.
 
+Kötelező népszavazás:
+'''''''''''''''''''''
+
+Bizonyos, az alkotmányban illetve a Választási törvényben foglalt kérdésekben kötelező népszavazás írható ki.
+
+- kötelező népszavazás esetén minden választójogú állampolgár a delegáció lehetősége nélkül önállóan és kötelezően szavaz
+- a kötelező népszavazási kötelezettség elmulasztása esetén az állampolgár a Választási törvényben meghatározott büntetést köteles az államnak fizetni
+- az országgyűlés bármely képviselőjének, illetve legalább az ország minden 500. polgárának javaslatára kötelező népszavazás kezdeményezhető:
+
+  - új törvény elfogadásáról
+  - törvénymódosítás elfogadásáról
+  - egyéb módon népszavazásra bocsátott kérdésről
+  
+- kötelező népszavazás kiírására akkor kerül sor, ha az országgyűlés egyszerű többséggel annak létjogosultságát megszavazza, vagy ha legalább az ország minden 100. polgára azt megszavazza
+- a kötelező népszavazás akkor eredményes, ha a részvételi arány legalább 90%-os, ellenkező esetben a Választási törvényben meghatározott feltételekkel ismételt kötelező népszavazást kell tartani
+- az ismételt kötelező népszavazás akkor eredményes, ha a részvételi arány legalább 51%-os
+
 A képviselők és az országgyűlés
 '''''''''''''''''''''''''''''''
 
 Minden megye és Budapest országgyűlési választókerületet alkot. Minden
-választókerület 10 - 10 országgyűlési képviselőt választ 4 évente október
+választókerület 10 - 10 országgyűlési képviselőt választ kötelező népszavaázzal 4 évente október
 23.-án, Condorcet módszerrel. A választhatóság feltételei:
 
 - magyar állampolgárság
@@ -160,7 +177,7 @@ választókerület 10 - 10 országgyűlési képviselőt választ 4 évente okt�
 
 Az országgyűlési képviselők a választókerület minden 100. polgárának
 indítványára visszahívhatóak. A visszahívás új képviselő megválasztásával
-történik.
+történik. A választás minden esetben kötelező népszavazással történik.
 
 Az országgyűlés képviselők jogai:
 
@@ -207,7 +224,7 @@ A végrehajtó hatalmat a Miniszterelnök a törvényhozó hatalom által biztos
 költségvetés segítségével gyakorolja.
 
 A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választják négy
-évente, mandátuma a következő év Január 1.-től az új költségvetéssel együtt
+évente kötelező népszavazással, mandátuma a következő év Január 1.-től az új költségvetéssel együtt
 érvényes. A választhatóság feltételei:
 
 - magyar állampolgárság
@@ -283,7 +300,7 @@ Az ellenőrző hatalom
 Az ellenőrző hatalom szervei:
 
 - Az Alkotmánybíróság feladata a törvényhozó hatalom ellenőrzése; a meghozott
-  jogszabályok magasabb jogszabályoknak való megfelelőségének ellenőrzése, a
+  jogszabályok magasabb jogszabályoknak és az alkotmánynak való megfelelőségének ellenőrzése, a
   nemzetközi szerződésekben vállalt emberi és állampolgári jogokat is beleértve.
 - A Kormányzatfelügyelet feladata a végrehajtó hatalom ellenőrzése; az
   erőforrások cél szerinti, hatékony, korrupciót kizáró módon történő
@@ -295,7 +312,7 @@ Az ellenőrző hatalom szervei:
 Az ellenőrző hatalom vezetője a Köztársaság Elnöke
 
 A Köztársaság Elnökét a polgárok közvetlenül, Condorcet módszerrel választják
-négy évente. A választhatóság feltételei:
+négy évente kötelező népszavazással. A választhatóság feltételei:
 
 - magyar állampolgárság
 - büntetlen előélet
