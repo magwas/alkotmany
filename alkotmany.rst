@@ -283,7 +283,7 @@ Az ellenőrző hatalom
 Az ellenőrző hatalom szervei:
 
 - Az Alkotmánybíróság feladata a törvényhozó hatalom ellenőrzése; a meghozott
-  jogszabályok magasabb jogszabályoknak való megfelelőségének ellenőrzése, a
+  jogszabályok magasabb jogszabályoknak és az alkotmánynak való megfelelőségének ellenőrzése, a
   nemzetközi szerződésekben vállalt emberi és állampolgári jogokat is beleértve.
 - A Kormányzatfelügyelet feladata a végrehajtó hatalom ellenőrzése; az
   erőforrások cél szerinti, hatékony, korrupciót kizáró módon történő
@@ -321,3 +321,8 @@ A Köztársasági Elnök kötelességei
 - Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenőrző
   hatalom munkájáról, az elvégzett ellenőrzésekről
 - A szükséges javaslatok elkészíttetése az ellenőrző hatalom szervei által
+
+
+Az Alkotmánybíróság létszáma mindig 7, tagjait 5 évre választják népszavazással Condorcet módszerrel. 
+Egy tag mandátumának lejáratakor vagy megszűnésekor új tag választása történik. 
+Egy jelöltet állít a Miniszterelnök, egy jelöltet a Köztársaság Elnöke, egy jelöltet a Főbíró, egy jelöltet az országgyűlés, valamint legalább 10.000 polgár ajánlásával a polgárok bármennyi további jelöltet állíthatnak.
