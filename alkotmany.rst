@@ -158,9 +158,9 @@ Bizonyos, az alkotmányban illetve a Választási törvényben foglalt kérdése
   - törvénymódosítás elfogadásáról
   - egyéb módon népszavazásra bocsátott kérdésről
   
-- kötelező népszavazás kiírására akkor kerül sor, ha az országgyűlés egyszerű többséggel annak létjogosultságát megszavazza, vagy ha legalább az ország minden 100. polgára azt megszavazza
+- a kötelező népszavazást az Országgyűlés Elnöke írja ki, amennyiben az országgyűlés egyszerű többséggel a kiírást megszavazza, vagy ha legalább az ország minden 100. polgára azt megszavazza
 - a kötelező népszavazás akkor eredményes, ha a részvételi arány legalább 90%-os, ellenkező esetben a Választási törvényben meghatározott feltételekkel ismételt kötelező népszavazást kell tartani
-- az ismételt kötelező népszavazás akkor eredményes, ha a részvételi arány legalább 51%-os
+- az ismételt kötelező népszavazás akkor eredményes, ha a részvételi arány legalább 51%-os, ellenkező esetben a szavazás eredménytelen és az indítvány nem kerül elfogadásra
 
 A képviselők és az országgyűlés
 '''''''''''''''''''''''''''''''
