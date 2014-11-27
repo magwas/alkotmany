@@ -156,11 +156,13 @@ választókerület 10 - 10 országgyűlési képviselőt választ 4 évente okt�
 - büntetlen előélet
 - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat
   munkájában teljes élete során
+- legfeljebb négy éven át volt országgyűlési képviselő az előző ciklusban
 - a jelöltet legalább a választókerület minden 500. polgára javasolja.
 
 Az országgyűlési képviselők a választókerület minden 100. polgárának
-indítványára visszahívhatóak. A visszahívás új képviselő megválasztásával
-történik.
+indítványára visszahívhatóak a mandátum kezdetét követő első évtől. A visszahívás új képviselő megválasztásával
+történik a választókerületen belül. Egy képviselő önként visszalépése vagy halála esetén 
+helyére új képviselő a választókerületen belüli időközi választással kerül.  
 
 Az országgyűlés képviselők jogai:
 
@@ -208,7 +210,7 @@ költségvetés segítségével gyakorolja.
 
 A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választják négy
 évente, mandátuma a következő év Január 1.-től az új költségvetéssel együtt
-érvényes. A választhatóság feltételei:
+érvényes, de legfeljebb 8 egymást követő éven át. A választhatóság feltételei:
 
 - magyar állampolgárság
 - büntetlen előélet
@@ -216,8 +218,8 @@ A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választj�
   munkájában teljes élete során
 - a jelöltet legalább az ország minden 500. polgára javasolja.
 
-A miniszterelnök az ország minden 100. polgárának indítványára visszahívható.
-A visszahívás új miniszterelnök megválasztásával történik.
+A miniszterelnök az ország minden 100. polgárának indítványára visszahívható a mandátum kezdetét követő második évtől.
+A visszahívás új miniszterelnök megválasztásával történik. A miniszterelnök önként lemondása vagy halála esetén, helyére új miniszterelnök választása történik.
 
 A Miniszterelnök jogai:
 
@@ -254,8 +256,8 @@ Bíró az lehet, aki
 A Főbírót a polgárok hat évente, a bírók közül, a bírók által javasolt négy
 jelöltből közvetlenül, Condorcet módszerrel választják.
 
-A Főbíró az ország minden 100. polgárának indítványára visszahívható.
-A visszahívás új Főbíró megválasztásával történik.
+A Főbíró az ország minden 100. polgárának indítványára visszahívható a mandátum kezdetét követő második évtől.
+A visszahívás új Főbíró megválasztásával történik. A Főbíró önként lemondása vagy halála esetén, helyére új Főbíró választása történik.
 
 A Főbíró jogai:
 
@@ -304,7 +306,7 @@ négy évente. A választhatóság feltételei:
 - a jelöltet legalább az ország minden 500. polgára javasolja.
 
 A Köztársasági Elnök az ország minden 100. polgárának indítványára
-visszahívható. A visszahívás új Köztársasági Elnök megválasztásával történik.
+visszahívható a mandátum kezdetét követő második évtől. A visszahívás új Köztársasági Elnök megválasztásával történik. A Köztársasági Elnök önként lemondása vagy halála esetén, helyére új Köztársasági Elnök választása történik.
 
 A Köztársasági Elnök jogai:
 
