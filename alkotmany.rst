@@ -185,12 +185,13 @@ Az országgyűlési képviselők kötelességei:
 
 Delegálás:
 
-- a választójoggal rendelkező állampolgárok szavazataikat delegálhatják egy általuk választott alapértelmezett képviselőre, aki bármelyik országgyűlési képviselő lehet
+- a választójoggal rendelkező állampolgárok (kivétel a képviselők) szavazataikat delegálhatják egy általuk választott alapértelmezett képviselőre, aki bármelyik országgyűlési képviselő lehet
 - delegálás esetén egy helyettes országgyűlési képviselőt is meg kell jelölni, arra az esetre, ha az alapértelmezett országgyűlési képviselő bármely oknál fogva nem képes szavazatot leadni
 - a választójoggal rendelkező állampolgárok delegálásukat bármikor módosíthatják, vagy visszavonhatják
 - a delegálással szavazó képviselők a saját nyilvános szavazatukkal egyidejűleg az őrájuk delegáló állampolgárok helyett is szavaznak
 - a delegálás minden esetben titkos, azaz se a nyilvánosság, se az országgyűlési képviselő nem  ismerheti meg kik illetve hányan delegáltak rá
-- minden képviselő választási esemény esetén, a választókerület állampolgárai automatikusan a választásuk szerinti első és második helyen jelölt alapértelmezett és helyettes képviselőre delegálják szavazatukat, ezt utána bármikor megváltoztathatják vagy visszavonhatják
+- minden képviselő választási eseménykor, a választókerület állampolgárai automatikusan a választásuk szerinti első és második helyen jelölt alapértelmezett és helyettes képviselőre delegálják szavazatukat, ezt utána bármikor megváltoztathatják vagy visszavonhatják
+- szavazatot delegálni csak új törvényt bevezető vagy törvénymódosító indítvány szavazásakor lehet
   
 
 Az Országgyűlés Elnökét az országgyűlési képviselők az arra jelentkező
