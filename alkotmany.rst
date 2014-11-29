@@ -323,6 +323,6 @@ A Köztársasági Elnök kötelességei
 - A szükséges javaslatok elkészíttetése az ellenőrző hatalom szervei által
 
 
-Az Alkotmánybíróság létszáma mindig 7, tagjait 5 évre választják népszavazással Condorcet módszerrel. 
-Egy tag mandátumának lejáratakor vagy megszűnésekor új tag választása történik. 
+Az Alkotmánybíróság létszáma mindig 15, tagjait 10 évre választják népszavazással Condorcet módszerrel. A tagok mandátuma nem megújítható és megbízatásuk abban az esetben is megszűnik, ha a mandátumukat még nem töltötték ki, de betöltötték a hetvenedik életévüket. 
+Egy tag mandátumának lejáratakor vagy megszűnésekor új tag választása történik. Alkotmánybíróság tagja csak 35 év feletti, független, alkotmányjogász/jogász végzettségű professzor vagy akadémikus lehet.
 Egy jelöltet állít a Miniszterelnök, egy jelöltet a Köztársaság Elnöke, egy jelöltet a Főbíró, egy jelöltet az országgyűlés, valamint legalább 10.000 polgár ajánlásával a polgárok bármennyi további jelöltet állíthatnak.
