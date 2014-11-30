@@ -7,9 +7,12 @@ Indoklás
 ========
 
 A képviselők is esendő emberek, és ők is dolgoznak, és nyilván szeretnének jól megélni, még azután is, hogy visszavonulnak. A természetbeni elismerés mellett, érdemes volna egyéb módokon is motiválni őket. Ahelyett, hogy kirívóan magas alapjövedelműk lenne, inkább a szakmai munka objektív módon mérhető értéke szerint kellene extra jövedelmet biztosítani.
-Másrészről a képviselőkkel szemben támasztott alapelvárások jó beállításával biztosítható, hogy magasabb szakmai szintű munka folyon a parlamentben.
+
+Másrészről a képviselőkkel szemben támasztott alapelvárások jó beállításával biztosítható, hogy magasabb szakmai szintű munka folyjon a parlamentben.
 Hasonlóan igaz ez nem csak a képviselőkre, de a többi hatalmi ágak tisztségviselőire is.
+
 Én fontosnak tartanám a választási program fogalmát intézményesíteni már akár az alkotmányba is. Csak az lehessen miniszterelnök jelölt, aki képes egy mögöttes szakmai szervezet felállítására és összefogására, úgyhogy az le tudjon tenni egy választási programot, amit majd követni tud, és ami számon kérhető. Így a választók sem csupán populista ígéretek és arc-szimpátia alapján döntenének.
+
 Hasonlóan ehhez, én bevezetném a Nemzeti Alapstratégia fogalmát is. Ez valami magasabb rendű, hosszú távú közös kitűzött cél vagy célok lennének. Ami egy alkotmányhoz hasonló alapdokumentumba kerülne rögzítésre, és ezeket a pontokat csak sokkal nehezebben lehessen módosítani. Ez nem törvény erejű dolog lenne, hanem referenciapont, iránymutatás, amire lehetne hivatkozni egy-egy vitánál is. Ebben az alkotmányban is megfogalmazott alapjogok lennének programszerűen kifejtve, ebbe tudnánk beleépíteni a rendszerváltó mozgalmunk konszenzusos céljait is.
 (Pl.: EU tagok vagyunk és azok is szeretnénk maradni, és hosszú távú célunk integrálódni úgy az EU közösségbe, hogy bevezethessük az Euro-t, hogy később mi is kifizetővé váljunk. Vagy hogy a nemzeti kincseinket, hagyományainkat megőrizzük és büszkén mutatthassuk be őket a világ számára. Vagy hogy a nemzetközi turizmust fejlesszük és egyik húzó ágazatunk legyen a jövőben. Stb-stb)
 
