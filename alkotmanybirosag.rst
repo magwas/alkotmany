@@ -35,7 +35,7 @@ Egy tag mandátumának lejáratakor vagy megszűnésekor új tag választása t�
   Ha biztosított az, hogy legalább évente lejárjon legalább egy tag mandátuma, akkor egy folyamatos, soros megújulás biztosítható.
   ? Az új alkotmány életbelépésekor külön szabályban kellene valahogy biztosítani a sorrendet. Azaz minden évben a jelenlegi tagok közül egy essen ki.
 
-3) "Alkotmánybíróság tagja csak 35 év feletti, független, alkotmányjogász/jogász végzettségű professzor 
+3) "Alkotmánybíróság tagja csak 45 év feletti és 70 év alatti, független, alkotmányjogász/jogász végzettségű professzor 
 vagy akadémikus lehet."
 
  Az életkor és a végzettség szabályozásával biztosítható, hogy egy szakmájában már eredményeket elért, hiteles, tapasztalt, bölcs bíró kerülhessen csak a tagok közé.
