@@ -1,7 +1,7 @@
 Módosító javaslat - Zentai Dániel 2014-12-004: Kötelező Népszavazás
 ===============================================================
 
-Törvényhozó hatalmi ágon belül a közvetlen demokrációt gyakorló népakarat intézményét megvalósító népszavazás kötelezővé tétele bizonyos típusú ügyek esetén.
+Törvényhozó hatalmi ágon belül a közvetlen demokráciát gyakorló népakarat intézményét megvalósító népszavazás kötelezővé tétele bizonyos típusú ügyek esetén.
 
 Indoklás
 ========
@@ -18,7 +18,9 @@ el lehetne érni, hogy valamennyire mégis csak foglalkozzon mindenki a közéle
 Alapelvek
 ---------
 
-- 
+- Legyenek olyan esetek, amikor mindenképpen kötelező népszavazás van (választások)
+- Minden más esetben legyen lehetőség kötelező népszavazás kiírására, de csak kellő indokkal és közös akarattal, hogy ne terheljük túl a szavazókat
+- A kötelező népszavazás eredményessége legyen részvételi arány függő
 
 
 Módosított és új szövegrészek magyarázata
@@ -33,10 +35,10 @@ Módosított és új szövegrészek magyarázata
  Itt ismét behoztam a Választási törvényt, mint egyik az alkotmányt kiegészítő alaptörvényt. Ebben lehetne rögzíteni, hogy miként kötelező a népszavazás, és milyen szankciókkal lehetne büntetni azt, aki elmulsztja eme kötelességét. Nyilván bizonyos esetekben felmentést lehetne kérni.
  
 3. "- az országgyűlés bármely képviselőjének, illetve legalább az ország minden 500. polgárának javaslatára kötelező népszavazás kezdeményezhető:
-  - új törvény elfogadásáról
-  - törvénymódosítás elfogadásáról
-  - egyéb módon népszavazásra bocsátott kérdésről
-  a kötelező népszavazást az Országgyűlés Elnöke írja ki, amennyiben az országgyűlés egyszerű többséggel a kiírást megszavazza, vagy ha legalább az ország minden 100. polgára azt megszavazza"
+- új törvény elfogadásáról
+- törvénymódosítás elfogadásáról
+- egyéb módon népszavazásra bocsátott kérdésről
+a kötelező népszavazást az Országgyűlés Elnöke írja ki, amennyiben az országgyűlés egyszerű többséggel a kiírást megszavazza, vagy ha legalább az ország minden 100. polgára azt megszavazza"
 
  Milyen feltételekkel, milyen kérdésekről lehet kötelező népszavazást kezdeményezni. Azaz a folyamat úgy nézne ki, hogy valaki vagy valakik kezdeményezik, majd ezt elfogadják, és utána kerülne kiírásra maga a kötelező népszavazás.  
  
@@ -46,3 +48,5 @@ Módosított és új szövegrészek magyarázata
  Ha már viszont kötelező, akkor legyen biztosított minimális részvételi arány is. Ugye attól, hogy kötelező, a gyakorlatban még mindig lenne aki valamilyen oknál fogva nem szavazna vagy nem tudna szavazni. Ezért a 90% az egy vállalható arány szerintem. Ha viszont mégse jönne össze, akkor lehessen egyszer ismételni, akkor viszont legyen leszállítva egy abszolút minimumra a kötelező részvételi arány (51% = egyszerű többség).
  
 5. A képviselőket és mindenféle főbb tisztségviselőket, akiket eleve népszavazással választanánk, legyen kötelező a népszavazás. Ennek megfelelően több pontban módosítottam a szöveget. 
+ 
+  
