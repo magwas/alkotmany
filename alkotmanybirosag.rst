@@ -13,8 +13,7 @@ Alapelvek
 
 - Az alkotmánybíróság döntésképes legyen azaz a létszáma páratlan szám legyen
 - Az alkotmánybíróság tagjai független alkotmányjogász/jogász végzettségű professzorok vagy akadémikusok legyenek
-- Az alkotmánybíróság szakmaisága, objektivitása, pártatlansága, politikán való felülemelkedettsége biztosított legyen,
-függetlenül attól, hogy kik vannak a végrehajtó hatalomban, illetve atörvényhozó hatalomban - ezt a választási rendszerrel kell biztosítani
+- Az alkotmánybíróság szakmaisága, objektivitása, pártatlansága, politikán való felülemelkedettsége biztosított legyen, függetlenül attól, hogy kik vannak a végrehajtó hatalomban, illetve a törvényhozó hatalomban. Ezt a választási rendszerrel kell biztosítani.
 - A jogász pályán nagyon fontos a szakmában eltöltött idő, a kellő tapasztalat, bölcsesség - ezért a minimális életkor bevezetését javaslom
 - Az alkotmánybíróság integritását és hitelességét úgy tudja megőrizni, ha a tagok kellően hosszú ideig tudnak együtt fejlődni és működni
 
