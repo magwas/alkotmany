@@ -17,12 +17,8 @@ Alapelvek
 - Az önállóan szavazó nép nagyon sokrétű, sokféle - nem várható el tőlük, hogy mély szakmai ismeretekkel bírjanak különféle kérdésekben
 - Az sem várható el a néptől, hogy mindenről folyamatosan tájékozódjon és aktívan részt vegyen a politikában és a szakmai kérdések egyeztetésében
 - Ha az országgyűlési képviselőkről kijelenthetjük az első pontot, akkor a nép összességére ez méginkább igaz
-- A szavazási rendszerben minden szavazat egyformán ugyanannyit ér. A populista vagy sokakat előnyösen vagy hátrányosan érintő kérdések nagyobb tömegeket mozgatnak meg,
-és populista kampányokkal az a néptömeg könnyen azonos döntésre sarkallható, ami döntés nem biztos, hogy érdeke egy fenntartható, folyamatosan fejlődő, stabil nemzetnek. 
-Ráadásul azzal a jelenséggel is kell számolni, hogy a valóban hozzáértők hangja, szavazata elveszik vagy elenyészik a tömegek között. Könnyen el lehet képzelni olyan szituációt,
-mint amit most a netadó okozott.  
-- A végrehajtó hatalom és a törvényhozó hatalom mesterséges szétválasztásával megszűnik a közös érdek és közös irányítás, két külön szervezet, két külön érdekcsoport, más-más célokkal.
-Hiába terjeszt be egy szakmailag megalapozott törvénymódosítást, ha szavazati ereje szinte alig van.
+- A szavazási rendszerben minden szavazat egyformán ugyanannyit ér. A populista vagy sokakat előnyösen vagy hátrányosan érintő kérdések nagyobb tömegeket mozgatnak meg, és populista kampányokkal az a néptömeg könnyen azonos döntésre sarkallható, ami döntés nem biztos, hogy érdeke egy fenntartható, folyamatosan fejlődő, stabil nemzetnek. Ráadásul azzal a jelenséggel is kell számolni, hogy a valóban hozzáértők hangja, szavazata elveszik vagy elenyészik a tömegek között. Könnyen el lehet képzelni olyan szituációt, mint amit most a netadó okozott.  
+- A végrehajtó hatalom és a törvényhozó hatalom mesterséges szétválasztásával megszűnik a közös érdek és közös irányítás, két külön szervezet, két külön érdekcsoport, más-más célokkal. A végrehajtó hatalom hiába terjeszt be egy szakmailag megalapozott törvénymódosítást, ha szavazati ereje szinte alig van.
 
 Magyarázat
 -----------------------------------------
