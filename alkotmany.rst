@@ -185,14 +185,12 @@ Az országgyűlési képviselők kötelességei:
 
 Delegálás:
 
+- minden képviselő-választási eseménykor a választó automatikusan a megválasztott képviselők közül az általa legelőre, de a "fentiek egyike sem" fölé rangsorolt képviselőre delegálja szavazatát, ezt utána bármikor megváltoztathatja vagy visszavonhatja
 - a választójoggal rendelkező állampolgárok (kivétel a képviselők) szavazataikat delegálhatják egy általuk választott alapértelmezett képviselőre, aki bármelyik országgyűlési képviselő lehet
-- delegálás esetén egy helyettes országgyűlési képviselőt is meg kell jelölni, arra az esetre, ha az alapértelmezett országgyűlési képviselő bármely oknál fogva nem képes szavazatot leadni
+- a választójoggal rendelkező állampolgár bármilyen kérdésben közvetlenül szavazhat. Ezekben az esetekben delegált szavazata a képviselőnél nem használható.
 - a választójoggal rendelkező állampolgárok delegálásukat bármikor módosíthatják, vagy visszavonhatják
-- a delegálással szavazó képviselők a saját nyilvános szavazatukkal egyidejűleg az őrájuk delegáló állampolgárok helyett is szavaznak
-- a delegálás minden esetben titkos, azaz se a nyilvánosság, se az országgyűlési képviselő nem  ismerheti meg kik illetve hányan delegáltak rá
-- minden képviselő választási eseménykor, a választókerület állampolgárai automatikusan a választásuk szerinti első és második helyen jelölt alapértelmezett és helyettes képviselőre delegálják szavazatukat, ezt utána bármikor megváltoztathatják vagy visszavonhatják
-- szavazatot delegálni csak új törvényt bevezető vagy törvénymódosító indítvány szavazásakor lehet
-  
+- Sem a nyilvánosság, se az országgyűlési képviselő nem  ismerheti meg kik delegáltak rá. Az egyes képviselőkre jutó delegálások, és az egyes szavazásoknál delegálva hagyott szavazatok száma nyilvános. A képviselő által leadott szavazat nyilvános.
+- a szavazatok delegálása új törvényt bevezető vagy törvénymódosító indítvány szavazásakor használható
 
 Az Országgyűlés Elnökét az országgyűlési képviselők az arra jelentkező
 országgyűlési képviselők közül Condorcet módszerrel választják. 
