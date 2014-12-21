@@ -94,6 +94,18 @@ van
 - az egészséghez és egészségügyi ellátáshoz,
 - a segítséghez, ha bajba jut.
 
+Vendégjog
+A vendég ugyanazon joggal rendelkezik, mint a magyar nemzet bármelyik tagja kivéve: 
+nem végezhet olyan tevékenységet, amely a magyar nemzet politikai és társadalmi életére befolyással van. 
+- Magyar érték minden olyan tevékenység eredménye, 
+- amelyet magyar lelki-, szellemi vagy anyagi tulajdonnal, 
+- Magyarország területén, magyar ember és vendége, illetve azok közreműködése hozott létre,
+  illetve szolgáltatott. Ezek az eszközök, épületek a magyar állam tulajdonát képezik és nem elidegeníthetők.
+- Csak olyan tevékenység végezhető, amely eredménye (termék vagy szolgáltatás), 
+- A tevékenység végzéséhez használt eszközök működése, 
+- A tevékenység végzése során keletkezett hulladék, nem károsítja és/vagy veszélyeztetheti az ember
+  lelki-, szellemi- és testi egészségét, valamint a természetes környezetet.
+
 Az élethez szükséges élelmiszerből, ivóvízből és levegőből senki nem használhat
 el többet a szükségleteinél, azokat nem sajátíthatja ki, pusztíthatja el, vagy
 teheti használhatatlanná.
@@ -127,6 +139,13 @@ gyakorlóitól visszavenni, a szabályokat megváltoztatni.
 
 Hatalmi Ágak
 ============
+
+Az alkotmány meghatározza az államformát, vagy
+Köztársaság vagy Királyság
+Alkotmányos, demokratikus Köztársaság Alkotmányos, demokratikus Királyság
+A király a magyar Szent Korona
+Legfelsőbb közjogi méltóság: A köztársasági Elnök Legfelsőbb közjogi méltóság: A Fejedelem
+Az ország neve: HUNGÁRIA                                     
 
 A hatalomnak négy ága van.
 
