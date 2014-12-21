@@ -96,7 +96,8 @@ van
 
 Vendégjog
 A vendég ugyanazon joggal rendelkezik, mint a magyar nemzet bármelyik tagja kivéve: 
-nem végezhet olyan tevékenységet, amely a magyar nemzet politikai és társadalmi életére befolyással van. 
+nem végezhet olyan tevékenységet, amely a magyar nemzet politikai és társadalmi életére befolyással van.
+
 - Magyar érték minden olyan tevékenység eredménye, 
 - amelyet magyar lelki-, szellemi vagy anyagi tulajdonnal, 
 - Magyarország területén, magyar ember és vendége, illetve azok közreműködése hozott létre,
