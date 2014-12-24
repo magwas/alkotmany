@@ -192,6 +192,7 @@ választókerület 10 - 10 országgyűlési képviselőt választ 4 évente okt�
 - büntetlen előélet
 - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat
   munkájában teljes élete során
+- legalább középfokú iskolai végzettség, és egy idegen nyelv középfokú ismerete (nyelvvizsgával igazoltan)
 - a jelöltet legalább a választókerület minden 500. polgára javasolja.
 
 Az országgyűlési képviselők a választókerület minden 100. polgárának
@@ -208,7 +209,9 @@ Az országgyűlés képviselők jogai:
 - kérdéseket tehet fel a minisztereknek és a Miniszterelnöknek, a Köztársaság
   Elnökének és a Főbírónak, amelyekre azok személyesen az országgyűlés előtt
   kötelesek válaszolni
-- javadalmazásként a mindenkori előző évi országos átlagfizetés hatszorosa
+- javadalmazásként a mindenkori előző évi országos átlagfizetés hatszorosa, 
+  valamint az egyéni fogadóórák után, és az általa benyújtott elfogadásra kerülő javaslatok után
+  a Választási törvény szerinti jutalék jár
 
 Az országgyűlési képviselők kötelességei:
 
@@ -219,7 +222,7 @@ Az országgyűlési képviselők kötelességei:
 - a képviselő a javadalmazásán kívül bevételhez nem juthat, előnyt el nem
   fogadhat
 
-Az Országgyűlés Elnökét az országgyűlési képviselők az arra jelentkező
+Az Országgyűlés Elnökét az országgyűlési képviselők az arra jelentkező felsőfokú iskolai végzettséggel rendelkező
 országgyűlési képviselők közül Condorcet módszerrel választják. 
 
 Az Országgyűlés Elnökének jogai:
@@ -250,6 +253,9 @@ A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választj�
 - büntetlen előélet
 - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat
   munkájában teljes élete során
+- felsőfokú iskolai végzettség, és egy idegen nyelv felsőfokú ismerete (nyelvvizsgával igazoltan)
+- párttag vagy (függetlenként) egyesületi elnök
+- párttagság esetén a párt, független jelöltként általa alapított egyesület, legkésőbb a választási nap előtt két héttel közzétett a Választási törvényben foglalt tartalommal és formai követelménnyel bíró Választási Programmmal kell rendelkezzen
 - a jelöltet legalább az ország minden 500. polgára javasolja.
 
 A miniszterelnök az ország minden 100. polgárának indítványára visszahívható.
@@ -262,14 +268,22 @@ A Miniszterelnök jogai:
   alkalmazása
 - A végrehajtó hatalom működési feltételeinek biztosítását célzó javaslatok
   benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
-- Javadalmazásként az országgyűlési képviselői javadalmazás négyszerese
+- Javadalmazásként az országgyűlési képviselői javadalmazás négyszerese, a Választási Programjában közölt kiemelt célok teljesítése esetén, melynek tényét népszavazás dönti el, az országgyűlési képviselői javadalmazás tízszerese végkielégítésként illeti meg mandátumának lejáratával
+
+
 
 A Miniszterelnök kötelességei:
 
-- A végrehajtó hatalom törvényeknek megfelelő működtetése
-- A végrehajtó hatalom működési feltételeinek biztosítását, a korrupció
+- A végrehajtó hatalom törvényeknek megfelelő működtetése, miniszterek és minisztériumok munkájának 
+  felelős irányítása és ellenőrzése
+- A felvállalt Választási Program megvalósítása
+- Az ország Nemzeti Alapstratégiájának megfelelően kormányozni 
+- A végrehajtó hatalom működési feltételeinek biztosítását, a Választási Program megvalósítását, 
+  az ország Nemzeti Alapstratégiáját, a korrupció
   megelőzését célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a
   törvényhozó hatalomnak
+- A független nemzeti médiában negyed évente beszámolót tart a törvények, programok végrehajtásának állapotáról 
+  és a következő negyed évre tervezett feladatokról
 - A miniszterelnök a javadalmazásán kívül bevételhez nem juthat, előnyt el nem
   fogadhat
 
@@ -319,7 +333,7 @@ Az ellenőrző hatalom
 Az ellenőrző hatalom szervei:
 
 - Az Alkotmánybíróság feladata a törvényhozó hatalom ellenőrzése; a meghozott
-  jogszabályok magasabb jogszabályoknak való megfelelőségének ellenőrzése, a
+  jogszabályok magasabb jogszabályoknak és az alkotmánynak való megfelelőségének ellenőrzése, a
   nemzetközi szerződésekben vállalt emberi és állampolgári jogokat is beleértve.
 - A Kormányzatfelügyelet feladata a végrehajtó hatalom ellenőrzése; az
   erőforrások cél szerinti, hatékony, korrupciót kizáró módon történő
