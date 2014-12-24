@@ -156,8 +156,8 @@ ahhoz hozzáadandó szöveget, és egy indoklást. A nem alternatív javaslat
 tartalmazza a téma címét és a megoldandó probléma leírását. Képviseleti erővel
 bír:
 
-- Új javaslat esetén legalább 10000 polgár vagy egy országgyűlési képviselő
-- Alternatív javaslat esetén legalább 2000 polgár vagy egy országgyűlési
+- Új javaslat esetén legalább tízezer polgár vagy egy országgyűlési képviselő
+- Alternatív javaslat esetén legalább kettőezer polgár vagy egy országgyűlési
   képviselő
 
 A polgárok által benyújtott javaslatokhoz az országgyűlés az arra jelentkező
@@ -192,9 +192,9 @@ választókerület 10 - 10 országgyűlési képviselőt választ 4 évente okt�
 - büntetlen előélet
 - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat
   munkájában teljes élete során
-- a jelöltet legalább a választókerület minden 500. polgára javasolja.
+- a jelöltet legalább a választókerület minden ötszázadik polgára javasolja.
 
-Az országgyűlési képviselők a választókerület minden 100. polgárának
+Az országgyűlési képviselők a választókerület minden századik polgárának
 indítványára visszahívhatóak. A visszahívás új képviselő megválasztásával
 történik.
 
@@ -250,9 +250,9 @@ A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választj�
 - büntetlen előélet
 - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat
   munkájában teljes élete során
-- a jelöltet legalább az ország minden 500. polgára javasolja.
+- a jelöltet legalább az ország minden ötszázadik polgára javasolja.
 
-A miniszterelnök az ország minden 100. polgárának indítványára visszahívható.
+A miniszterelnök az ország minden századik polgárának indítványára visszahívható.
 A visszahívás új miniszterelnök megválasztásával történik.
 
 A Miniszterelnök jogai:
@@ -290,7 +290,7 @@ Bíró az lehet, aki
 A Főbírót a polgárok hat évente, a bírók közül, a bírók által javasolt négy
 jelöltből közvetlenül, Condorcet módszerrel választják.
 
-A Főbíró az ország minden 100. polgárának indítványára visszahívható.
+A Főbíró az ország minden századik polgárának indítványára visszahívható.
 A visszahívás új Főbíró megválasztásával történik.
 
 A Főbíró jogai:
@@ -337,9 +337,9 @@ négy évente. A választhatóság feltételei:
 - büntetlen előélet
 - a jelölt nem vett részt semmilyen hazai vagy külföldi titkosszolgálat
   munkájában teljes élete során
-- a jelöltet legalább az ország minden 500. polgára javasolja.
+- a jelöltet legalább az ország minden ötszázadik polgára javasolja.
 
-A Köztársasági Elnök az ország minden 100. polgárának indítványára
+A Köztársasági Elnök az ország minden századik polgárának indítványára
 visszahívható. A visszahívás új Köztársasági Elnök megválasztásával történik.
 
 A Köztársasági Elnök jogai:
