@@ -47,7 +47,8 @@ Bevezető
 
 Mi, Magyarország polgárai, abból a célból, hogy egy tisztességes, jól működő
 demokratikus országunk legyen, a következőekben egyeztünk meg, hagyományunknak
-megfelelően, a mai kor szellemében íródott, követve a Szent Korona szellemiségét.
+megfelelően, a mai kor emberének gondolkodását  követve, a Szent Korona
+szellemiségének alapján.
 
 Emberi jogok és kötelességek
 ============================
@@ -103,14 +104,13 @@ nem végezhet olyan tevékenységet, amely a magyar nemzet politikai és társad
 és gazdasági életét a nép akaratával szemben hátrányosan befolyásolja. 
 
 - Magyar érték minden olyan tevékenység eredménye, 
-- amelyet magyar lelki-, szellemi vagy anyagi tulajdonnal, 
+- amelyet magyar lelki, szellemi vagy anyagi tulajdonnal, 
 - Magyarország területén, magyar ember és vendége, illetve azok közreműködése
   hozott létre, illetve szolgáltatott. Ezek az eszközök, épületek a magyar állam tulajdonát képezik és nem elidegeníthetők.
 - Csak olyan tevékenység végezhető, amely
   eredménye (termék vagy szolgáltatás), 
 - A tevékenység végzéséhez használt eszközök működése, 
-- A tevékenység végzése során keletkezett hulladék, nem károsítja és/vagy veszélyeztetheti az ember lelki-, szellemi- és testi egészségét, valamint a természetes környezetet.
-
+- A tevékenység végzése során keletkezett hulladék, nem károsítja és/vagy veszélyeztetheti az ember lelki, szellemi és testi egészségét, valamint a természetes környezetet.
 
 
 Az élethez szükséges élelmiszerből, ivóvízből és levegőből senki nem használhat
@@ -150,6 +150,10 @@ Alkotmányos, Néphatalmi Királyság
 A király maga a magyar Szent Korona.
 A legfőbb közjogi méltóság: A Fejedelem
 Az ország neve: Hungária 
+Fővárosa: Budapest
+
+A királyság nem jogutódja a korábbi állami berendezkedéseknek, egyedül az ENSZ
+szervezetének tagja továbbra is. Katonailag a semleges álláspontot képviseli. 
 
 Hatalmi Ágak
 ============
@@ -299,6 +303,18 @@ A Kormányfő kötelességei:
 - A miniszterelnök a javadalmazásán kívül bevételhez nem juthat, előnyt el nem
   fogadhat
 
+- A végrehajtó hatalom törvényeknek megfelelő működtetése.
+- A mindenkori költségvetés feletti rendelkezés annak 70 %-áig, 30 %-ot
+  tartalékalapba kell vissza forgatni.
+- Biztosítani mindenkor az előirányzott társadalmi, gazdasági fejlődés
+  megfelelő környezetét, a lehetőségek megteremtését.
+- Biztosítani - az alkotmánynak megfelelően - az állampolgárok számára
+  a részvételi demokráciát.
+- A végrehajtó hatalom működési feltételeinek biztosítását, a korrupció
+  megelőzését célzó javaslatok benyújtása az Országgyűlés Elnökén keresztül a
+  törvényhozó hatalomnak
+- A Kormányfő a javadalmazásán kívül bevételhez nem juthat, előnyt el nem fogadhat 
+
 Az igazságszolgáltatás
 ----------------------
 
@@ -361,9 +377,12 @@ Az ellenőrző hatalom szervei:
 
 Az ellenőrző hatalmak utasításilag és munkaügyileg is a fent említett szervezetek munkaadói egyben.
 
-Az új állami berendezkedés megkívánja az un. Korona Hadtest létrehozását és ez alá tartozik a hadsereg, Az alkotmánybíróság, az őrség mely, biztosítja a korona az összes közjogi méltóság, valamint a Parlament, a Királyi palota, a Sándor palota és Legfelsőbb Bíróság épületeinek védelmét.
-
-A Fejedelmi őrség feladata a védelem és egyben – ha a Fejedelem nem felel meg az alkotmány előírásainak – annak leváltása.
+Az új állami berendezkedés megkívánja a Korona hadtest létrehozását.
+Ez alá tartozik a  hadsereg, az alkotmánybíróság, a néphatalmi felügyeletek
+az őrség mely, biztosítja a korona az összes közjogi méltóság, valamint 
+a Parlament a Királyi palota Sándor palota és Legfelsőbb Bíróság épületeinek védelmét. 
+A Fejedelmi őrség feladata a védelem és egyben, - ha  Fejedelem nem felel meg az 
+alkotmány előírásainak – annak leváltása.
 
 A Fejedelmet a polgárok közvetlenül, Condorcet módszerrel választják
 négy évente. A választhatóság feltételei:
@@ -392,6 +411,10 @@ A Fejedelem kötelességei
 - Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenőrző
   hatalom munkájáról, az elvégzett ellenőrzésekről
 - A szükséges javaslatok elkészíttetése az ellenőrző hatalom szervei által
+- A fejedelem nevezi ki a hatalmi ágak összes vezetőjét, ill. Ő vonja vissza azok megbízatásait.
+- Joga van feloszlatni az országszaggyűlést, kiírja az új választások időpontját.
+- A fejedelemnek alkotmányos kötelessége, a korrupció és lobbizás ellen fellépni.
+- A fejedelem a Korona hadtest főparancsnoka.
 
 A kettős hatalmi struktúrát követve fejedelem vezeti, a kormányfő irányítja az országot Korrupció kizárt.
 
