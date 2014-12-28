@@ -1,5 +1,16 @@
-Módosító javaslat - Zentai Dániel 2014-12-003: Delegálás
+Módosító javaslat - Magosányi Árpád
 ===============================================================
+
+Zentai Dániel hasonló javaslatának felhasználásával
+
+Különbségek az alapul vett javaslathoz képest:
+
+- A helyettes delegált intézményének elvetése.
+  Mivel a szavazásra nyitva lévő időablakot hetekben mérjük,
+  egy képviselő elérhetetlensége a teljes szavazási időszakra
+  kis valószínűségű, és azt vélhetően még a szavazási időszak
+  alatt meg lehet oldani.
+- A delegált szavazatok száma, és azok felhasználása nyilvános.
 
 Törvényhozó hatalmi ágon belül a közvetlen demokrációt gyakorló népakarat működésének egyszerűsítése választott képviselőkre történő delegálás segítségével.
 
