@@ -219,6 +219,15 @@ Az országgyűlési képviselők kötelességei:
 - a képviselő a javadalmazásán kívül bevételhez nem juthat, előnyt el nem
   fogadhat
 
+Delegálás:
+
+- minden képviselő-választási eseménykor a választó automatikusan a megválasztott képviselők közül az általa legelőre, de a "fentiek egyike sem" fölé rangsorolt képviselőre delegálja szavazatát, ezt utána bármikor megváltoztathatja vagy visszavonhatja
+- a választójoggal rendelkező állampolgárok (kivétel a képviselők) szavazataikat delegálhatják egy általuk választott alapértelmezett képviselőre, aki bármelyik országgyűlési képviselő lehet
+- a választójoggal rendelkező állampolgár bármilyen kérdésben közvetlenül szavazhat. Ezekben az esetekben delegált szavazata a képviselőnél nem használható.
+- a választójoggal rendelkező állampolgárok delegálásukat bármikor módosíthatják, vagy visszavonhatják
+- Sem a nyilvánosság, se az országgyűlési képviselő nem  ismerheti meg kik delegáltak rá. Az egyes képviselőkre jutó delegálások, és az egyes szavazásoknál delegálva hagyott szavazatok száma nyilvános. A képviselő által leadott szavazat nyilvános.
+- a szavazatok delegálása új törvényt bevezető vagy törvénymódosító indítvány szavazásakor használható
+
 Az Országgyűlés Elnökét az országgyűlési képviselők az arra jelentkező
 országgyűlési képviselők közül Condorcet módszerrel választják. 
 
