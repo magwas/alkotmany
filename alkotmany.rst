@@ -46,7 +46,8 @@ Bevezető
 --------
 
 Mi, Magyarország polgárai, abból a célból, hogy egy tisztességes, jól működő
-demokratikus országunk legyen, a következőekben egyeztünk meg.  
+demokratikus országunk legyen, a következőekben egyeztünk meg, hagyományunknak
+megfelelően, a mai kor szellemében íródott, követve a Szent Korona szellemiségét.
 
 Emberi jogok és kötelességek
 ============================
@@ -98,15 +99,17 @@ van
 
 Vendégjog:
 A vendég ugyanazon joggal rendelkezik, mint a magyar nemzet bármelyik tagja kivéve: 
-nem végezhet olyan tevékenységet, amely a magyar nemzet politikai és társadalmi életére befolyással van. 
-Magyar érték minden olyan tevékenység eredménye, 
-amelyet magyar lelki-, szellemi vagy anyagi tulajdonnal, 
-Magyarország területén, magyar ember és vendége, illetve azok közreműködése
-hozott létre, illetve szolgáltatott. Ezek az eszközök, épületek a magyar állam tulajdonát képezik és nem elidegeníthetők.
-Csak olyan tevékenység végezhető, amely
- eredménye (termék vagy szolgáltatás), 
-A tevékenység végzéséhez használt eszközök működése, 
-A tevékenység végzése során keletkezett hulladék, nem károsítja és/vagy veszélyeztetheti az ember lelki-, szellemi- és testi egészségét, valamint a természetes környezetet.
+nem végezhet olyan tevékenységet, amely a magyar nemzet politikai és társadalmi életét
+és gazdasági életét a nép akaratával szemben hátrányosan befolyásolja. 
+
+- Magyar érték minden olyan tevékenység eredménye, 
+- amelyet magyar lelki-, szellemi vagy anyagi tulajdonnal, 
+- Magyarország területén, magyar ember és vendége, illetve azok közreműködése
+  hozott létre, illetve szolgáltatott. Ezek az eszközök, épületek a magyar állam tulajdonát képezik és nem elidegeníthetők.
+- Csak olyan tevékenység végezhető, amely
+  eredménye (termék vagy szolgáltatás), 
+- A tevékenység végzéséhez használt eszközök működése, 
+- A tevékenység végzése során keletkezett hulladék, nem károsítja és/vagy veszélyeztetheti az ember lelki-, szellemi- és testi egészségét, valamint a természetes környezetet.
 
 
 
@@ -142,11 +145,11 @@ polgároknak bármikor joguk van közös megegyezéssel a jogokat a hatalom egye
 gyakorlóitól visszavenni, a szabályokat megváltoztatni.
 
 
-Az alkotmány meghatározza az államformát,                                                   Királyság:
-Alkotmányos,demokratikusKirályság                                                                                                    A király a magyar Szent Korona
-Legfőbb közjogi méltóság: A Fejedelem
-Az ország neve: HUNGÁRIA                                     
-
+Az alkotmány meghatározza az állami berendezkedést:
+Alkotmányos, Néphatalmi Királyság
+A király maga a magyar Szent Korona.
+A legfőbb közjogi méltóság: A Fejedelem
+Az ország neve: Hungária 
 
 Hatalmi Ágak
 ============
@@ -228,8 +231,8 @@ Az országgyűlés képviselők jogai:
 - az ország hivatalos médiáin keresztül üzenetek eljuttatása
 - a végrehajtó hatalom szerveitől a javaslatok indoklásához szükséges
   információk határidőre történő beszerzése
-- kérdéseket tehet fel a minisztereknek és a Miniszterelnöknek, a Köztársaság
-  Elnökének és a Főbírónak, amelyekre azok személyesen az országgyűlés előtt
+- kérdéseket tehet fel a a Fejedelemnek, a Kormányfőnek és a Főbírónak,
+  amelyekre azok személyesen az országgyűlés előtt
   kötelesek válaszolni
 - javadalmazásként a mindenkori előző évi országos átlagfizetés hatszorosa
 
@@ -255,17 +258,17 @@ Az Országgyűlés Elnökének kötelességei:
 - Az Országgyűlés üléseinek vezetése
 - A törvényhozás menetrendjének betartatása
 - A szavazások kiírása
-- A Miniszterelnök, a Köztársasági Elnök, és a Főbíró javaslatainak benyújtása
+- A Fejedelem, a Kormányfő és a Főbíró javaslatainak benyújtása
 - Az Országgyűlés Elnöke a javadalmazásán kívül bevételhez nem juthat, előnyt el
   nem fogadhat
 
 A Végrehajtó hatalom
 --------------------
 
-A végrehajtó hatalmat a Miniszterelnök a törvényhozó hatalom által 
+A végrehajtó hatalmat a Kormányfő a törvényhozó hatalom által 
 alkotott törvények és költségvetés segítségével gyakorolja.
 
-A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választják négy
+A Kormányfőt a polgárok közvetlenül, Condorcet módszerrel választják négy
 évente, mandátuma a következő év Január 1.-től az új költségvetéssel együtt
 érvényes. A választhatóság feltételei:
 
@@ -278,7 +281,7 @@ A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választj�
 A miniszterelnök az ország minden 100. polgárának indítványára visszahívható.
 A visszahívás új miniszterelnök megválasztásával történik.
 
-A Miniszterelnök jogai:
+A Kormányfőnek jogai:
 
 - A törvényben meghatározott feltételeknek megfelelő miniszterek kijelölése a
   minisztériumok élére, egyszerre maximum három tárca nélküli miniszter
@@ -287,7 +290,7 @@ A Miniszterelnök jogai:
   benyújtása az Országgyűlés Elnökén keresztül a törvényhozó hatalomnak
 - Javadalmazásként az országgyűlési képviselői javadalmazás négyszerese
 
-A Miniszterelnök kötelességei:
+A Kormányfő kötelességei:
 
 - A végrehajtó hatalom törvényeknek megfelelő működtetése
 - A végrehajtó hatalom működési feltételeinek biztosítását, a korrupció
@@ -350,10 +353,19 @@ Az ellenőrző hatalom szervei:
 - A Bíróságfelügyelet feladata az igazságszolgáltatás ellenőrzése; a bírósági
   döntések jogszabályokkal, az etikával és egymással való összhangjának
   ellenőrzése, az összeférhetetlenségek kizárása, az átláthatóság biztosítása
+- A Bíróságfelügyelet, ügyészség felügyelet feladata az igazságszolgáltatás
+  ellenőrzése; a bírósági döntések jogszabályokkal, az etikával és egymással
+  való konzisztenciájának ellenőrzése, az összeférhetetlenségek kizárása,
+  az átláthatóság biztosítása 
+-  A Rendőrség felügyelet ellenőrzi a rendőrség, állambiztonság működését.
 
-Az ellenőrző hatalom vezetője a Köztársaság Elnöke
+Az ellenőrző hatalmak utasításilag és munkaügyileg is a fent említett szervezetek munkaadói egyben.
 
-A Köztársaság Elnökét a polgárok közvetlenül, Condorcet módszerrel választják
+Az új állami berendezkedés megkívánja az un. Korona Hadtest létrehozását és ez alá tartozik a hadsereg, Az alkotmánybíróság, az őrség mely, biztosítja a korona az összes közjogi méltóság, valamint a Parlament, a Királyi palota, a Sándor palota és Legfelsőbb Bíróság épületeinek védelmét.
+
+A Fejedelmi őrség feladata a védelem és egyben – ha a Fejedelem nem felel meg az alkotmány előírásainak – annak leváltása.
+
+A Fejedelmet a polgárok közvetlenül, Condorcet módszerrel választják
 négy évente. A választhatóság feltételei:
 
 - magyar állampolgárság
@@ -362,10 +374,10 @@ négy évente. A választhatóság feltételei:
   munkájában teljes élete során
 - a jelöltet legalább az ország minden 500. polgára javasolja.
 
-A Köztársasági Elnök az ország minden 100. polgárának indítványára
+A Fejedelem az ország minden 100. polgárának indítványára
 visszahívható. A visszahívás új Köztársasági Elnök megválasztásával történik.
 
-A Köztársasági Elnök jogai:
+A Fejedelem jogai:
 
 - A törvényhozó hatalom által hozott törvények kihirdetése, maximum egy
   alkalommal megfontolásra való visszaküldése, vagy alkotmánybírósági kontrollra
@@ -375,8 +387,12 @@ A Köztársasági Elnök jogai:
 - Az ellenőrző hatalom szervei által készített javaslatok benyújtása a
   törvényhozó hatalomnak az Országgyűlés Elnökén keresztül
 
-A Köztársasági Elnök kötelességei
+A Fejedelem kötelességei
 
 - Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenőrző
   hatalom munkájáról, az elvégzett ellenőrzésekről
 - A szükséges javaslatok elkészíttetése az ellenőrző hatalom szervei által
+
+A kettős hatalmi struktúrát követve fejedelem vezeti, a kormányfő irányítja az országot Korrupció kizárt.
+
+Zárógondolatok: A több mint 1500 éves államiságunk, királysági berendezkedésünk és hagyományaink a mai kor szellemének megfelelően fogja biztosítani az élhető, tudásalapú Magyarország megteremtését. A királlyá emelt Szent Korona vallástól függetlenül legyen mindenki számára elfogadott, mert ez egyben – a világon egyedülállóan - államiságunk jelképe.
