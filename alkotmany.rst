@@ -243,7 +243,7 @@ A végrehajtó hatalmat a Miniszterelnök a törvényhozó hatalom által
 alkotott törvények és költségvetés segítségével gyakorolja.
 
 A Miniszterelnököt a polgárok közvetlenül, Condorcet módszerrel választják négy
-évente, mandátuma a következő év Január 1.-től az új költségvetéssel együtt
+évente, mandátuma a következő év január 1.-től az új költségvetéssel együtt
 érvényes. A választhatóság feltételei:
 
 - magyar állampolgárság
