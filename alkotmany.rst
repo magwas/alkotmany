@@ -116,6 +116,27 @@ Mindenkinek kötelessége
 - a közösség által ráruházott feladatok, tisztségek jó gazdaként való ellátása,
   vagy ha erre nem képes, a feladat/tisztség visszaadása
 
+Köztulajdon és védelme
+-----------------------
+Köztulajdonnak minősülnek az alábbiak:
+
+- Magyarország természeti kincsei (például, de nem kizárólag: víz, levegő,
+  vadállomány, termőföld, természetvédelmi területek, biogazdálkodások)
+- Magyarország vagyoni természetű kincsei (adóbevétel, valutatartalék, aranytartalék,
+  egyéb állami tulajdonú anyagi javak, mint például, de nem kizárólag: középületek,
+  államkötvények, beruházások, pályázatok, országon kívüli eredetű de közcélra juttatott
+  források)
+- Magyarország szellemi természetű kincsei (szabadalmak, találmányok, védjegyek)
+
+A köztulajdon gondozására kijelölt szervek, cégek nemzetgazdasági, és nemzetvédelmi
+szempontból kiemelt fontosságú munkát végeznek, ellenőrzésük és működésük biztosítása is
+kiemelt feladat. Ehhez ellenőrző szervet kell működtetni, melynek kiemelt kötelességei közé
+tartozik a korrupció és egyéb visszaélések üldözése, az Ügyészséggel közösen, nyomozati
+jogkörrel. A köztulajdonnal szembeni vétségek nem évülnek el, üldözésüknek nem szabhat határt
+sem államhatár, sem cégtulajdonlással kapcsolatos visszaélés, ezért a köztulajdont ellenőrző szerv
+közvetlen kapcsolatban kell álljon a Legfőbb Ügyésszel és hivatalával, a Főbíróval és hivatalával,
+és minden olyan nemzetközi szervvel, amelyik a munkáját segíteni tudja.
+
 ---------------------
 Az állam és a hatalom
 ---------------------
@@ -327,6 +348,13 @@ Az ellenőrző hatalom szervei:
 - A Bíróságfelügyelet feladata az igazságszolgáltatás ellenőrzése; a bírósági
   döntések jogszabályokkal, az etikával és egymással való összhangjának
   ellenőrzése, az összeférhetetlenségek kizárása, az átláthatóság biztosítása
+- A Legfőbb Ügyész és az ügyészség az igazságszolgáltatás közreműködőjeként az
+  állam büntetőigényét érvényesíti. Az ügyészség üldözi a bűncselekményeket,
+  fellép más jogsértő cselekményekkel és mulasztásokkal szemben, valamint
+  elősegíti a jogellenes cselekmények megelőzését. Kiemelt feladata a korrupció
+  üldözése, kötelességeinek része a korrupciógyanús esetekben vizsgálat indítása
+  hivatalból, ezzel kapcsolatosan mentelmi jog felfüggesztése, illetve a
+  korrupciógyanús esetekkel kapcsolatos visszaélések büntetése.
 
 Az ellenőrző hatalom vezetője a Köztársaság Elnöke
 
