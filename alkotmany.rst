@@ -357,3 +357,11 @@ A Köztársasági Elnök kötelességei
 - Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenőrző
   hatalom munkájáról, az elvégzett ellenőrzésekről
 - A szükséges javaslatok elkészíttetése az ellenőrző hatalom szervei által
+
+
+Honvédelem
+----------
+
+Minden Magyarországon élő magyar állampolgárnak (kivéve kettős állampolgárok)
+legyen joga fegyvert tartani, és szükség esetén kötelessége legyen cserébe a
+hazát megvédeni külső agresszió esetén . 
