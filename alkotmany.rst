@@ -319,7 +319,7 @@ Az ellenőrző hatalom
 Az ellenőrző hatalom szervei:
 
 - Az Alkotmánybíróság feladata a törvényhozó hatalom ellenőrzése; a meghozott
-  jogszabályok magasabb jogszabályoknak való megfelelőségének ellenőrzése, a
+  jogszabályok magasabb jogszabályoknak és az alkotmánynak való megfelelőségének ellenőrzése, a
   nemzetközi szerződésekben vállalt emberi és állampolgári jogokat is beleértve.
 - A Kormányzatfelügyelet feladata a végrehajtó hatalom ellenőrzése; az
   erőforrások cél szerinti, hatékony, korrupciót kizáró módon történő
@@ -357,3 +357,15 @@ A Köztársasági Elnök kötelességei
 - Az Országgyűlés előtt évente valamint szükség szerint beszámolni az ellenőrző
   hatalom munkájáról, az elvégzett ellenőrzésekről
 - A szükséges javaslatok elkészíttetése az ellenőrző hatalom szervei által
+
+
+Az Alkotmánybíróság létszáma mindig 15, tagjait 10 évre választják népszavazással Condorcet módszerrel. A tagok mandátuma megújítható, megbízatásuk abban az esetben is megszűnik, ha a mandátumukat még nem töltötték ki, de betöltötték a hetvenedik életévüket. 
+Egy tag mandátumának lejáratakor vagy megszűnésekor új tag választása történik. Alkotmánybíróság tagja csak 45 év feletti és 70 év alatti, független, alkotmányjogász/jogász végzettségű professzor vagy akadémikus lehet.
+Egy jelöltet állít a Miniszterelnök, egy jelöltet a Köztársaság Elnöke, egy jelöltet a Főbíró, egy jelöltet az országgyűlés, valamint legalább 10.000 polgár ajánlásával a polgárok bármennyi további jelöltet állíthatnak.
+Ha egy naptári évben nem ürült meg egyéb okokból alkotmánybírósági pozíció, akkor a legrégebben megválasztott alkotmánybíró elveszti mandátumát.
+
+Átmeneti rendelkezések
+======================
+
+Az Alkotmánybíróságot az Alkotmány beiktatását követő hat hónapon belül fel kell állítani. Az első Alkotmánybíróság tagságára a Miniszterelnök, a Főbíró, és az Országgyűlés legfeljebb 15-15 jelöltet állíthat, valamint legalább 10.000 polgár ajánlásával a polgárok bármennyi további jelöltet állíthatnak. Az első Alkotmánybíróság tagjait egy szavazással választjuk meg, Condorcet módszerrel. Az azonos szavazásban megválasztott alkotmánybírók közül a szavazáson hátrébb rangsorolt számít régebben megválasztottnak. Holtverseny esetén a Köztársasági elnök dönt.
+
